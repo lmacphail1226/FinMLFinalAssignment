@@ -1,0 +1,25 @@
+Ticker,Name,Category,Class,5Y Sharpe Ratio,Top3,Weight
+DXJ,WisdomTree Japan Hedged Equity ,Japan Stock,Equities,1.4275088775689178,1,0.08
+OPPJ,WisdomTree Japan Opportunities ,Japan Stock,Equities,1.3875395214638528,1,0.08
+WDTRF,WISDOMTREE ISSUER ICAV WISDOMTR,,Equities,1.3089690346696146,1,0.08
+DBJP,Xtrackers MSCI Japan Hedged Equ,Japan Stock,Equities,1.118608887809407,0,0.05
+TPZ,Tortoise Essential Energy Fund,Equity Energy,Equities,1.1121260268477238,0,0.05
+ATMP,iPath Select MLP ETN,Energy Limited Partnership,Equities,1.0782323125260054,0,0.05
+GREK,Global X MSCI Greece ETF,Miscellaneous Region,Equities,0.9833678345222454,0,0.05
+UMI,USCF Midstream Energy Income Fu,Energy Limited Partnership,Equities,0.980128925804266,0,0.05
+VRIG,Invesco Variable Rate Investmen,Ultrashort Bond,Fixed Income,0.9747217440069468,0,0.05
+MLPX,Global X MLP & Energy Infrastru,Energy Limited Partnership,Equities,0.9707429991460929,0,0.05
+AAAU,Goldman Sachs Physical Gold ETF,Commodities Focused,Equities,0.9574183443639624,0,0.05
+EINC,VanEck Energy Income ETF,Energy Limited Partnership,Equities,0.939929374232996,0,0.05
+ENFR,Alerian Energy Infrastructure E,Energy Limited Partnership,Equities,0.9128315390097196,0,0.03499999999999989
+POCT,Innovator U.S. Equity Power Buf,Defined Outcome,Equities,0.9123988961918544,0,0.025
+PULS,PGIM Ultra Short Bond ETF,Ultrashort Bond,Fixed Income,0.7877225372168856,0,0.025
+USFR,WisdomTree Floating Rate Treasu,Ultrashort Bond,Fixed Income,0.778735640432628,0,0.025
+TMV,Direxion Daily 20-Year Treasury,Trading--Inverse Debt,Fixed Income,0.7437639991279404,0,0.025
+GLDI,ETRACS Gold Shares Covered Call,Commodities Focused,Alternatives,0.7308456226646849,0,0.025
+FLRN,SPDR Bloomberg Investment Grade,Ultrashort Bond,Fixed Income,0.7230302796858291,0,0.025
+FLOT,iShares Floating Rate Bond ETF,Ultrashort Bond,Fixed Income,0.7096719024843551,0,0.025
+CGBLF,ISHARES GOLD BULLION ETF UNITS ,,Alternatives,0.5735321554118129,0,0.025
+GCOW,Pacer Global Cash Cows Dividend,Global Large-Stock Value,Liquidity,0.4667247811253038,0,0.025
+COWZ,Pacer US Cash Cows 100 ETF,Mid-Cap Value,Liquidity,0.348665812703401,0,0.025
+BUL,Pacer US Cash Cows Growth ETF,Mid-Cap Blend,Liquidity,0.3191178878150819,0,0.025
