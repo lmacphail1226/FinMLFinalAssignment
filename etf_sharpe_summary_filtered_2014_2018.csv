@@ -1,0 +1,930 @@
+Ticker,Name,Category,Class,5Y Sharpe Ratio
+AADR,AdvisorShares Dorsey Wright,Foreign Large Growth,Equities,0.048539963344209
+AAXJ,iShares MSCI All Country Asia e,Pacific/Asia ex-Japan Stk,Equities,0.077461943671794
+ACWI,iShares MSCI ACWI ETF,Global Large-Stock Blend,Equities,0.1832303235697039
+ACWV,iShares MSCI Global Min Vol Fac,Global Large-Stock Blend,Equities,0.412790536304407
+ACWX,iShares MSCI ACWI ex U.S. ETF,Foreign Large Blend,Equities,-0.0193179599136224
+AFK,VanEck Africa Index ETF,Miscellaneous Region,Equities,-0.350287595672771
+AGG,iShares Core U.S. Aggregate Bon,Intermediate Core Bond,Fixed Income,-0.3893502695499895
+AGZ,iShares  Agency Bond ETF,Short Government,Fixed Income,-0.7778684344497525
+AGZD,WisdomTree Interest Rate Hedged,Nontraditional Bond,Fixed Income,-1.1885201707243485
+AIA,iShares Asia 50 ETF,Pacific/Asia ex-Japan Stk,Equities,0.2639765124450823
+AIVI,WisdomTree International AI Enh,Foreign Large Value,Equities,-0.1089354452671659
+AIVL,WisdomTree U.S. AI Enhanced Val,Mid-Cap Value,Equities,0.0911771081549989
+AMLP,Alerian MLP ETF,Energy Limited Partnership,Equities,-0.5497275405823853
+ANGL,VanEck Fallen Angel High Yield ,High Yield Bond,Fixed Income,0.509753784791279
+AOA,iShares Core 80/20 Aggressive A,Global Aggressive Allocation,Blended / Multi-Asset,0.1531645794380924
+AOK,iShares Core 30/70 Conservative,Global Conservative Allocation,Blended / Multi-Asset,-0.1330732410197037
+AOM,iShares Core 40/60 Moderate All,Global Moderately Conservative Allocation,Blended / Multi-Asset,-0.0325900425650282
+AOR,iShares Core 60/40 Balanced All,Global Moderate Allocation,Blended / Multi-Asset,0.0871947306465414
+ARGT,Global X MSCI Argentina ETF,Miscellaneous Region,Equities,0.246322595381488
+ASEA,Global X FTSE Southeast Asia ET,Pacific/Asia ex-Japan Stk,Equities,-0.0003401900231352
+ASHR,Xtrackers Harvest CSI 300 China,China Region,Equities,-0.2065097107088282
+ATMP,iPath Select MLP ETN,Energy Limited Partnership,Equities,-0.4470387356638062
+BAB,Invesco Taxable Municipal Bond ,Muni National Long,Fixed Income,0.1091502685394722
+BBH,VanEck Biotech ETF,Health,Equities,-0.0605445177644308
+BFOR,Barron's 400 ETF,Mid-Cap Blend,Equities,0.1201515420727653
+BIB,ProShares Ultra Nasdaq Biotechn,Trading--Leveraged Equity,Equities,-0.0334396718838677
+BIL,SPDR Bloomberg 1-3 Month T-Bill,Ultrashort Bond,Fixed Income,-9.979971657414003
+BIS,ProShares UltraShort Nasdaq Bio,Trading--Inverse Equity,Equities,-0.173445679462958
+BIV,Vanguard Intermediate-Term Bond,Intermediate Core Bond,Fixed Income,-0.2663648091507251
+BIZD,VanEck BDC Income ETF,Financial,Equities,0.0582083039411893
+BJK,VanEck Gaming ETF,Consumer Cyclical,Equities,-0.0546380820337448
+BKF,iShares MSCI BIC ETF,Diversified Emerging Mkts,Equities,0.1365272490584674
+BKLN,Invesco Senior Loan ETF,Bank Loan,Equities,-0.4161304137904183
+BLV,Vanguard Long-Term Bond ETF,Long-Term Bond,Fixed Income,-0.0683862265184257
+BMVP,Invesco Bloomberg MVP Multi-fac,Mid-Cap Blend,Equities,0.2774224242817406
+BND,Vanguard Total Bond Market ETF,Intermediate Core Bond,Fixed Income,-0.3446554738086205
+BNDX,Vanguard Total International Bo,Global Bond-USD Hedged,Fixed Income,-0.2477933834902313
+BOND,PIMCO Active Bond Exchange-Trad,Intermediate Core-Plus Bond,Fixed Income,-0.1292478208398721
+BRF,VanEck Brazil Small-Cap ETF,Latin America Stock,Equities,0.1636913204525774
+BRZU,Direxion Daily Brazil Bull 2X S,Trading--Leveraged Equity,Equities,0.1608370368694562
+BSV,Vanguard Short-Term Bond ETF,Short-Term Bond,Fixed Income,-1.233441820089092
+BTAL,AGF U.S. Market Neutral Anti-Be,Equity Market Neutral,Equities,-0.043654759470845
+BWX,SPDR Bloomberg International Tr,Global Bond,Fixed Income,-0.3186623261818828
+BWZ,SPDR Bloomberg Short Term Inter,Global Bond,Fixed Income,-0.5807657478601695
+BZQ,ProShares UltraShort MSCI Brazi,Trading--Inverse Equity,Equities,-0.3876825115509848
+CARZ,First Trust S-Network Electric ,Consumer Cyclical,Equities,-0.2248837145997613
+CEMB,iShares J.P. Morgan EM Corporat,Emerging Markets Bond,Fixed Income,0.1116610680158145
+CEW,WisdomTree Emerging Currency St,Emerging-Markets Local-Currency Bond,Fixed Income,-0.4426072050352955
+CGBLF,ISHARES GOLD BULLION ETF UNITS ,,Alternatives,-0.0260951175896968
+CGW,Invesco S&P Global Water Index ,Natural Resources,Equities,0.167965922311662
+CHIQ,Global X MSCI China Consumer Di,China Region,Equities,0.1045936814234427
+CLAYF,ISHARES 1-5 YR LADDERED CORP BD,,Equities,-0.5171635448550614
+CLYLF,ISHARES S&P/TSX CANADIAN DIV ET,,Equities,-0.2272201700554932
+CMBS,iShares CMBS Bond ETF,Intermediate Core Bond,Fixed Income,-0.3373701789687327
+CMF,iShares California Muni Bond ET,Muni California Long,Fixed Income,-0.2309758514037506
+COLO,Global X MSCI Colombia ETF,Miscellaneous Region,Equities,-0.4244865962058665
+COPX,Global X Copper Miners ETF,Natural Resources,Equities,0.0441741307903664
+CORP,Pimco Investment Grade Corporat,Corporate Bond,Fixed Income,-0.2028751176136843
+CQQQ,Invesco China Technology ETF,China Region,Equities,0.1912772035759824
+CSD,Invesco S&P Spin-Off ETF,Mid-Cap Blend,Equities,-0.108673168037241
+CSM,ProShares Large Cap Core Plus,Large Blend,Equities,0.3160631546415902
+CURE,Direxion Daily Healthcare Bull ,Trading--Leveraged Equity,Equities,0.3999053518098234
+CUT,Invesco MSCI Global Timber ETF,Natural Resources,Equities,0.0063139765235099
+CVY,Invesco Zacks Multi-Asset Incom,Aggressive Allocation,Blended / Multi-Asset,-0.0966313704988394
+CWB,SPDR Bloomberg Convertible Secu,Convertibles,Equities,0.3269147977179846
+CWI,SPDR MSCI ACWI ex-US ETF,Foreign Large Blend,Equities,-0.0189217203130088
+CXSE,WisdomTree China ex-State-Owned,China Region,Equities,0.2011960486982631
+CYSXF,ISHARES S&P/TSX CDN PFD SH ETF ,,Equities,-0.2080206031752811
+CZA,Invesco Zacks Mid-Cap ETF,Mid-Cap Blend,Equities,0.2796220105124045
+DBAW,Xtrackers MSCI All World ex US ,Foreign Large Blend,Equities,0.1667246588745549
+DBEF,Xtrackers MSCI EAFE Hedged Equi,Foreign Large Blend,Equities,0.1627652738143066
+DBEM,Xtrackers MSCI Emerging Markets,Diversified Emerging Mkts,Equities,-0.0669430200908961
+DBEU,Xtrackers MSCI Europe Hedged Eq,Europe Stock,Equities,0.1938991873179887
+DBJP,Xtrackers MSCI Japan Hedged Equ,Japan Stock,Equities,0.1771008828725264
+DDM,ProShares Ultra Dow30,Trading--Leveraged Equity,Equities,0.5696208826910699
+DEM,WisdomTree Emerging Markets Hig,Diversified Emerging Mkts,Equities,0.0840803185513373
+DES,WisdomTree U.S. SmallCap Divide,Small Value,Equities,0.1346734579480327
+DEW,WisdomTree Global High Dividend,Global Large-Stock Value,Equities,0.0060585728269567
+DFE,WisdomTree Europe SmallCap Divi,Europe Stock,Equities,0.1545088519639772
+DFJ,WisdomTree Japan SmallCap Fund,Japan Stock,Equities,0.5241168492480384
+DGRE,WisdomTree Emerging Markets Qua,Diversified Emerging Mkts,Equities,-0.1379606339870648
+DGRS,WisdomTree U.S. SmallCap Qualit,Small Value,Equities,0.1100719937902952
+DGRW,WisdomTree U.S. Quality Dividen,Large Blend,Equities,0.3976366717099998
+DGS,WisdomTree Emerging Market Smal,Diversified Emerging Mkts,Equities,0.0480362086200068
+DGT,SPDR Global Dow ETF (based on T,Global Large-Stock Value,Equities,0.1807722898908017
+DHCNI,Diversified Healthcare Trust  -,,Equities,-0.2289585950649407
+DHS,WisdomTree U.S. High Dividend F,Large Value,Equities,0.2131512322315772
+DIA,SPDR Dow Jones Industrial Avera,Large Value,Equities,0.5625102261692204
+DIG,ProShares Ultra Energy,Trading--Leveraged Equity,Equities,-0.353022280738051
+DIM,WisdomTree International MidCap,Foreign Small/Mid Value,Equities,0.0855195405408595
+DIV,Global X Super Dividend ETF,Mid-Cap Value,Equities,-0.3089711101682825
+DLN,WisdomTree U.S. LargeCap Divide,Large Value,Equities,0.3197331140218401
+DLS,WisdomTree International SmallC,Foreign Small/Mid Value,Equities,0.2238138652372015
+DNL,WisdomTree Global ex-US Quality,Foreign Large Growth,Equities,-0.0241219414002384
+DOG,ProShares Short Dow30,Trading--Inverse Equity,Equities,-1.084042246865646
+DOL,WisdomTree International LargeC,Foreign Large Value,Equities,-0.0784603666503866
+DON,WisdomTree U.S. MidCap Dividend,Mid-Cap Value,Equities,0.2926229166873375
+DRN,Direxion Daily Real Estate Bull,Trading--Leveraged Equity,Alternatives,0.0587603696312046
+DRV,Direxion Daily Real Estate Bear,Trading--Inverse Equity,Alternatives,-0.3969592895450273
+DSI,iShares ESG MSCI KLD 400 ETF,Large Blend,Equities,0.3261262626840213
+DTD,WisdomTree U.S. Total Dividend ,Large Value,Equities,0.2976135074099518
+DTH,WisdomTree International High D,Foreign Large Value,Equities,-0.0994197102359071
+DTRE,First Trust Alerian Disruptive ,Global Real Estate,Alternatives,-0.0325423314491994
+DUG,ProShares UltraShort Energy,Trading--Inverse Equity,Equities,0.0839599755880424
+DUST,Direxion Daily Gold Miners Inde,Trading--Inverse Equity,Alternatives,-0.3541347486908139
+DVY,iShares Select Dividend ETF,Large Value,Equities,0.3856781753199741
+DVYA,iShares Asia / Pacific Dividend,Pacific/Asia ex-Japan Stk,Equities,-0.1440008597722855
+DVYE,iShares Emerging Markets Divide,Diversified Emerging Mkts,Equities,0.0291375943085311
+DWAS,Invesco Dorsey Wright SmallCap ,Small Blend,Equities,0.0894296088966177
+DWM,WisdomTree International Equity,Foreign Large Value,Equities,-0.0309725555656378
+DWX,SPDR S&P International Dividend,Foreign Large Value,Equities,-0.1254530176049741
+DXD,ProShares UltraShort Dow30,Trading--Inverse Equity,Equities,-0.99017895774334
+DXJ,WisdomTree Japan Hedged Equity ,Japan Stock,Equities,0.1554731159323309
+EBND,SPDR Bloomberg Emerging Markets,Emerging-Markets Local-Currency Bond,Fixed Income,-0.2857894405046816
+ECH,iShares Inc. iShares MSCI Chile,Miscellaneous Region,Equities,0.0969018244338159
+ECNS,iShares MSCI China Small-Cap ET,China Region,Equities,-0.0035991038091688
+ECON,Columbia Research Enhanced Emer,Diversified Emerging Mkts,Equities,-0.4114648621049472
+EDC,Direxion Emerging Markets Bull ,Trading--Leveraged Equity,Equities,-0.0204839113883087
+EDEN,iShares Inc iShares MSCI Denmar,Miscellaneous Region,Equities,0.3003129014424144
+EDIV,SPDR S&P Emerging Markets Divid,Diversified Emerging Mkts,Equities,-0.0381036937279129
+EDV,Vanguard Extended Duration Trea,Long Government,Equities,-0.0162557019965909
+EDZ,Direxion Emerging Markets Bear ,Trading--Inverse Equity,Equities,-0.485053345696612
+EELV,Invesco S&P Emerging Markets Lo,Diversified Emerging Mkts,Equities,-0.1508369535353266
+EEM,iShares MSCI Emerging Index Fun,Diversified Emerging Mkts,Equities,0.0132263448227841
+EEMA,iShares MSCI Emerging Markets A,Pacific/Asia ex-Japan Stk,Equities,0.0742013308489636
+EEMO,Invesco S&P Emerging Markets Mo,Diversified Emerging Mkts,Equities,-0.2667270130885115
+EEMS,iShares MSCI Emerging Markets S,Diversified Emerging Mkts,Equities,-0.0612692699399634
+EEMV,iShares MSCI Emerging Markets M,Diversified Emerging Mkts,Equities,-0.0035770243378422
+EES,WisdomTree U.S. SmallCap Fund,Small Value,Equities,0.199890323715496
+EET,ProShares Ultra MSCI Emerging M,Trading--Leveraged Equity,Equities,-0.0017275993894477
+EEV,ProShares UltraShort MSCI Emerg,Trading--Inverse Equity,Equities,-0.4873817482960516
+EFA,iShares MSCI EAFE ETF,Foreign Large Blend,Equities,-0.0167679361943145
+EFAV,iShares MSCI EAFE Min Vol Facto,Foreign Large Blend,Equities,0.2367857881055198
+EFG,iShares MSCI EAFE Growth ETF,Foreign Large Growth,Equities,0.0655269983830313
+EFNL,iShares Inc iShares MSCI Finlan,Miscellaneous Region,Equities,0.2281990463202332
+EFO,ProShares Ultra MSCI EAFE,Trading--Leveraged Equity,Equities,-0.0300352269200052
+EFU,ProShares UltraShort MSCI EAFE,Trading--Inverse Equity,Equities,-0.4386596794934181
+EFV,iShares MSCI EAFE Value ETF,Foreign Large Value,Equities,-0.100366611803315
+EFZ,ProShares Short MSCI EAFE,Trading--Inverse Equity,Equities,-0.5260188938105189
+EIDO,iShares MSCI Indonesia ETF,Miscellaneous Region,Equities,-0.099239524660778
+EINC,VanEck Energy Income ETF,Energy Limited Partnership,Equities,-0.7376893271310803
+EIRL,iShares Trust iShares MSCI Irel,Miscellaneous Region,Equities,0.1067374322822709
+EIS,iShares Inc iShares MSCI Israel,Miscellaneous Region,Equities,0.0636000066440597
+ELD,WisdomTree Emerging Markets Loc,Emerging-Markets Local-Currency Bond,Fixed Income,-0.2759112739243229
+EMB,iShares J.P. Morgan USD Emergin,Emerging Markets Bond,Fixed Income,0.0840211033242555
+EMCB,WisdomTree Emerging Markets Cor,Emerging Markets Bond,Fixed Income,-0.0037815314298009
+EMHY,iShares J.P. Morgan EM High Yie,Emerging Markets Bond,Fixed Income,0.2103496332712296
+EMIF,iShares Emerging Markets Infras,Diversified Emerging Mkts,Equities,-0.2005717424565617
+EMLC,VanEck J. P. Morgan EM Local Cu,Emerging-Markets Local-Currency Bond,Fixed Income,-0.2747190332410054
+EMLP,First Trust North American Ener,Energy Limited Partnership,Equities,-0.3899529833745215
+ENFR,Alerian Energy Infrastructure E,Energy Limited Partnership,Equities,-0.5299944631889609
+ENOR,iShares Inc iShares MSCI Norway,Miscellaneous Region,Equities,0.0605411231834075
+ENZL,iShares MSCI New Zealand ETF,Miscellaneous Region,Equities,0.3536912642957978
+EPHE,iShares MSCI Philippines ETF,Miscellaneous Region,Equities,-0.3428131556209167
+EPI,WisdomTree India Earnings Fund,India Equity,Equities,0.14399488688151
+EPOL,iShares Trust iShares MSCI Pola,Miscellaneous Region,Equities,0.0168371532631346
+EPP,iShares MSCI Pacific Ex-Japan I,Pacific/Asia ex-Japan Stk,Equities,0.0352524829464338
+EPS,WisdomTree U.S. LargeCap Fund,Large Value,Equities,0.3018220254026729
+EPU,iShares MSCI Peru and Global Ex,Miscellaneous Region,Equities,0.1765392907447198
+EPV,ProShares UltraShort FTSE Europ,Trading--Inverse Equity,Equities,-0.4407397088549199
+EQL,ALPS Equal Sector Weight ETF,Large Value,Equities,0.2489121255333792
+EQWL,Invesco S&P 100 Equal Weight ET,Large Value,Equities,0.3324235989306536
+ERTH,Invesco MSCI Sustainable Future,Global Large-Stock Growth,Equities,0.322608110114172
+ERX,Direxion Energy Bull 2X Shares,Trading--Leveraged Equity,Equities,-0.3136321973814
+ERY,Direxion Daily Energy Bear 2X S,Trading--Inverse Equity,Equities,0.0341908827389151
+EUFN,iShares MSCI Europe Financials ,Financial,Equities,-0.1886977359332493
+EUM,ProShares Short MSCI Emerging M,Trading--Inverse Equity,Equities,-0.5360783168209922
+EURL,Direxion Daily FTSE Europe Bull,Trading--Leveraged Equity,Equities,-0.103516137856522
+EUSA,iShares MSCI USA Equal Weighted,Mid-Cap Blend,Equities,0.1947269140293232
+EVX,VanEck Environmental Services E,Industrials,Equities,0.3467582775413333
+EWA,iShares MSCI Australia Index Fu,Miscellaneous Region,Equities,-0.0417262842648117
+EWC,iShares MSCI Canada Index Fund,Miscellaneous Region,Equities,-0.3095707415429997
+EWD,iShares Inc iShares MSCI Sweden,Miscellaneous Region,Equities,-0.0425270933304871
+EWG,iShares MSCI Germany Index Fund,Miscellaneous Region,Equities,-0.0888168292305501
+EWH,iShares MSCI Hong Kong Index Fu,China Region,Equities,0.2279995583342036
+EWI,iShares Inc iShares MSCI Italy ,Miscellaneous Region,Equities,-0.0520802809636429
+EWJ,iShares MSCI Japan Index Fund,Japan Stock,Equities,0.1781070085890976
+EWK,iShares Inc iShares MSCI Belgiu,Miscellaneous Region,Equities,0.0364113379768315
+EWL,iShares Inc iShares MSCI Switze,Miscellaneous Region,Equities,0.0081142292235285
+EWM,iShares MSCI Malaysia Index Fun,Miscellaneous Region,Equities,-0.0438614891961723
+EWN,iShares MSCI Netherlands Index ,Miscellaneous Region,Equities,0.1705151873858447
+EWO,iShares Inc iShares MSCI Austri,Miscellaneous Region,Equities,0.2951198938224585
+EWP,iShares Inc iShares MSCI Spain ,Miscellaneous Region,Equities,-0.2041979901330493
+EWQ,iShares MSCI France Index Fund,Miscellaneous Region,Equities,0.1607101153760485
+EWS,iShares Inc iShares MSCI Singap,Miscellaneous Region,Equities,-0.1025831520024316
+EWT,iShares Inc iShares MSCI Taiwan,China Region,Equities,0.1230546302869007
+EWU,iShares MSCI,Miscellaneous Region,Equities,-0.2230499349042768
+EWUS,Ishares MSCI,Miscellaneous Region,Equities,-0.0696643351838293
+EWV,ProShares UltraShort MSCI Japan,Trading--Inverse Equity,Equities,-0.6834773545063317
+EWW,iShares Inc iShares MSCI Mexico,Latin America Stock,Equities,-0.3802121202122287
+EWX,SPDR S&P Emerging Markets Small,Diversified Emerging Mkts,Equities,-0.0740131152913893
+EWY,iShares Inc iShares MSCI South ,Miscellaneous Region,Equities,0.1191583128638888
+EWZ,iShares Inc iShares MSCI Brazil,Latin America Stock,Equities,0.1788674707598236
+EWZS,iShares MSCI Brazil Small-Cap E,Latin America Stock,Equities,0.197694640061928
+EXI,iShares Global Industrials ETF,Industrials,Equities,0.161932315396545
+EZA,iShares MSCI South Africa Index,Miscellaneous Region,Equities,-0.1569406424973788
+EZJ,ProShares Ultra MSCI Japan,Trading--Leveraged Equity,Equities,0.1182591540340146
+EZM,WisdomTree U.S. MidCap Fund,Small Value,Equities,0.1395660396835276
+EZU,iShares MSCI Eurozone ETF,Europe Stock,Equities,-0.0135704431516988
+FAB,First Trust Multi Cap Value Alp,Mid-Cap Value,Equities,-0.0202204432039723
+FAD,First Trust Multi Cap Growth Al,Mid-Cap Growth,Equities,0.2960912328558757
+FAN,First Trust Global Wind Energy ,Miscellaneous Sector,Equities,0.295409607485065
+FAS,Direxion Financial Bull 3X Shar,Trading--Leveraged Equity,Equities,0.3478892716980984
+FAZ,Direxion Financial Bear 3X Shar,Trading--Inverse Equity,Equities,-0.7373380153855208
+FBT,First Trust Amex Biotech Index ,Health,Equities,0.2094946714756725
+FCA,First Trust China AlphaDEX Fund,China Region,Equities,0.1547215795143934
+FCG,First Trust Natural Gas ETF,Equity Energy,Equities,-0.7585033852941725
+FCOM,Fidelity MSCI Communication Ser,Communications,Equities,0.2454453569418419
+FDD,First Trust STOXX European Sele,Europe Stock,Equities,-0.0285171050108578
+FDIS,Fidelity MSCI Consumer Discreti,Consumer Cyclical,Equities,0.4346522036292161
+FDL,First Trust Morningstar ETF,Large Value,Equities,0.3830344006727723
+FDM,First Trust DJ Select MicroCap ,Small Value,Equities,0.267141069643743
+FDN,First Trust DJ Internet Index F,Technology,Equities,0.8578673952531337
+FDT,First Trust Developed Markets E,Foreign Large Value,Equities,0.0405003799683298
+FDTS,First Trust Developed Markets e,Foreign Small/Mid Value,Equities,0.0645433157198782
+FEM,First Trust Emerging Markets Al,Diversified Emerging Mkts,Equities,0.1590589881952148
+FEMS,First Trust Emerging Markets Sm,Diversified Emerging Mkts,Equities,0.0992433621297886
+FENY,Fidelity MSCI Energy Index ETF,Equity Energy,Equities,-0.3681899636986475
+FEP,First Trust Europe AlphaDEX Fun,Europe Stock,Equities,0.1052579602729968
+FEX,First Trust Large Cap Core Alph,Large Blend,Equities,0.1899738506214547
+FEZ,SPDR DJ Euro STOXX 50 Etf,Europe Stock,Equities,-0.0810038048943764
+FGD,First Trust DJ Global Select Di,Foreign Large Value,Equities,-0.1111779744481746
+FGM,First Trust Germany AlphaDEX Fu,Miscellaneous Region,Equities,0.0637713010660551
+FHLC,Fidelity MSCI Health Care Index,Health,Equities,0.3526200633794857
+FID,First Trust S&P International D,Foreign Large Value,Equities,-0.2220140140593926
+FIDU,Fidelity MSCI Industrials Index,Industrials,Equities,0.2029702291859316
+FILL,iShares MSCI Global Energy Prod,Equity Energy,Equities,-0.1102759861153332
+FIW,First Trust Water ETF,Natural Resources,Equities,0.3678733352911131
+FJP,First Trust Japan AlphaDEX Fund,Japan Stock,Equities,0.050497463872814
+FKU,First Trust,Miscellaneous Region,Equities,-0.2453430679802378
+FLN,First Trust Latin America Alpha,Latin America Stock,Equities,0.1200015069930194
+FLOT,iShares Floating Rate Bond ETF,Ultrashort Bond,Fixed Income,-2.8528886967132117
+FLRN,SPDR Bloomberg Investment Grade,Ultrashort Bond,Fixed Income,-2.102457591937875
+FLTR,VanEck ETF Trust VanEck IG Floa,Ultrashort Bond,Fixed Income,-1.523075929705023
+FMAT,Fidelity MSCI Materials Index E,Natural Resources,Equities,0.0535823206390597
+FMF,First Trust Managed Futures Str,Systematic Trend,Equities,-0.5695567895425642
+FNCL,Fidelity MSCI Financials Index ,Financial,Equities,0.274667504571843
+FNDA,Schwab Fundamental U.S. Small C,Small Blend,Equities,0.1137757913478434
+FNDB,Schwab Fundamental U.S. Broad M,Large Value,Equities,0.206892167915543
+FNDC,Schwab Fundamental Internationa,Foreign Small/Mid Value,Equities,0.1551646371914569
+FNDE,Schwab Fundamental Emerging Mar,Diversified Emerging Mkts,Equities,0.1564699557778772
+FNDF,Schwab Fundamental Internationa,Foreign Large Value,Equities,-0.032399858839975
+FNDX,Schwab Fundamental U.S. Large C,Large Value,Equities,0.2208692922442223
+FNK,First Trust Mid Cap Value Alpha,Mid-Cap Value,Equities,-0.0651194894167395
+FNX,First Trust Mid Cap Core AlphaD,Mid-Cap Blend,Equities,0.0851609436186015
+FNY,First Trust Mid Cap Growth Alph,Mid-Cap Growth,Equities,0.2501167575566431
+FPA,First Trust Asia Pacific Ex-Jap,Pacific/Asia ex-Japan Stk,Equities,0.0315749877632146
+FPE,First Trust Preferred Securitie,Preferred Stock,Equities,0.3077880111533123
+FPX,First Trust US Equity Opportuni,Mid-Cap Growth,Equities,0.2884825651181086
+FRI,First Trust S&P REIT Index Fund,Real Estate,Alternatives,0.0069163651984759
+FSTA,Fidelity MSCI COnsumer Staples ,Consumer Defensive,Equities,0.0893856269740159
+FSZ,First Trust Switzerland AlphaDE,Miscellaneous Region,Equities,0.2313115116275829
+FTA,First Trust Large Cap Value Alp,Large Value,Equities,0.0790278102008475
+FTAG,First Trust Indxx Global Agricu,Natural Resources,Equities,-0.7842442069050184
+FTC,First Trust Large Cap Growth Al,Large Growth,Equities,0.2893311756512293
+FTCS,First Trust Capital Strength ET,Large Blend,Equities,0.4389374848822174
+FTEC,Fidelity MSCI Information Techn,Technology,Equities,0.6525073478159799
+FTGC,First Trust Global Tactical Com,Commodities Broad Basket,Equities,-1.292253544829679
+FTHI,First Trust BuyWrite Income ETF,Derivative Income,Equities,0.1351238070686391
+FTQI,First Trust Nasdaq BuyWrite Inc,Derivative Income,Equities,0.0226082453380041
+FTRI,First Trust Indxx Global Natura,Natural Resources,Equities,-0.3278276665893115
+FTSD,Franklin Short Duration U.S. Go,Short Government,Equities,-2.451259269602034
+FTSL,First Trust Senior Loan Fund,Bank Loan,Equities,-0.2700950252390569
+FUTY,Fidelity MSCI Utilities Index E,Utilities,Equities,0.3491927107882218
+FVD,First Trust VL Dividend,Large Value,Equities,0.4442544493584799
+FXD,First Trust Cons. Discret. Alph,Consumer Cyclical,Equities,-0.0435143626208104
+FXG,First Trust Cons. Staples Alpha,Consumer Defensive,Equities,-0.079959395214132
+FXH,First Trust Health Care AlphaDE,Health,Equities,0.10230356993079
+FXI,iShares China Large-Cap ETF,China Region,Equities,0.0153424487790002
+FXL,First Trust Technology AlphaDEX,Technology,Equities,0.5693785263509106
+FXN,First Trust Energy AlphaDEX Fun,Equity Energy,Equities,-0.4389395005847893
+FXO,First Trust Financials AlphaDEX,Financial,Equities,0.2421565954782757
+FXP,ProShares Ultrashort FTSE China,Trading--Inverse Equity,Equities,-0.3668502512188746
+FXR,First Trust Industrials AlphaDE,Industrials,Equities,0.1224874859034651
+FXU,First Trust Utilities AlphaDEX ,Utilities,Equities,0.226564881858804
+FXZ,First Trust Materials AlphaDEX ,Natural Resources,Equities,0.0731699860545961
+FYC,First Trust Small Cap Growth Al,Small Growth,Equities,0.3402748667035649
+FYLD,Cambria Foreign Shareholder Yie,Foreign Small/Mid Value,Equities,0.0362465767806138
+FYT,First Trust Small Cap Value Alp,Small Value,Equities,-0.1155462335950461
+FYX,First Trust Small Cap Core Alph,Small Blend,Equities,0.0987037298844992
+GAL,SPDR SSgA Global Allocation ETF,Global Moderate Allocation,Blended / Multi-Asset,-0.0109873348161873
+GBF,iShares Government/Credit Bond ,Intermediate Core Bond,Fixed Income,-0.4918292170242856
+GCC,WisdomTree EnhancedContinuous C,Commodities Broad Basket,Equities,-0.9664904354805682
+GDX,VanEck Gold Miners ETF,Equity Precious Metals,Alternatives,0.2088448277001372
+GDXJ,VanEck Junior Gold Miners ETF,Equity Precious Metals,Alternatives,0.2990183832860414
+GGME,Invesco Next Gen Media and Gami,Technology,Equities,0.0886404444228401
+GHYG,iShares US & Intl High Yield Co,High Yield Bond,Fixed Income,-0.0140692040813333
+GII,SPDR S&P Global Infrastructure ,Infrastructure,Equities,-0.0821131750612916
+GLDI,ETRACS Gold Shares Covered Call,Commodities Focused,Alternatives,-0.1590146437139958
+GLIN,VanEck India Growth Leaders ETF,India Equity,Equities,0.0276397550097922
+GMF,SPDR S&P Emerging Asia Pacific ,Pacific/Asia ex-Japan Stk,Equities,0.1188843372683881
+GNMA,iShares GNMA Bond ETF,Intermediate Government,Fixed Income,-0.9293074894261792
+GNR,SPDR S&P Global Natural Resourc,Natural Resources,Equities,-0.012654623743522
+GOEX,Global X Gold Explorers ETF,Equity Precious Metals,Alternatives,0.3787964657029329
+GOVI,Invesco Equal Weight 0-30 Year ,Long Government,Equities,-0.2218932276878475
+GOVT,iShares U.S. Treasury Bond ETF,Intermediate Government,Fixed Income,-0.5593382320730123
+GQRE,FlexShares Global Quality Real ,Global Real Estate,Alternatives,0.0018099258112104
+GREK,Global X MSCI Greece ETF,Miscellaneous Region,Equities,-0.3850280534646804
+GRID,First Trust NASDAQ Clean Edge S,Infrastructure,Equities,0.0975242908661135
+GRPM,Invesco S&P MidCap 400 GARP ETF,Small Blend,Equities,0.1095948096252105
+GSY,Invesco Ultra Short Duration ET,Ultrashort Bond,Fixed Income,-1.8626108026463992
+GUNR,FlexShares Global Upstream Natu,Natural Resources,Equities,0.0376411672250278
+GURU,Global X Guru Index ETF,Large Blend,Equities,-0.0184122409304669
+GVI,iShares Intermediate Government,Short-Term Bond,Fixed Income,-0.71623472918744
+GWX,SPDR S&P International SmallCap,Foreign Small/Mid Blend,Equities,0.3117382172974856
+GXC,SPDR S&P China ETF,China Region,Equities,0.1336791211674052
+GYLD,Arrow Dow Jones Global Yield ET,Global Moderate Allocation,Blended / Multi-Asset,-0.4470032776272971
+HAP,VanEck Natural Resources ETF,Natural Resources,Equities,-0.0511858844761416
+HAUZ,Xtrackers International Real Es,Global Real Estate,Alternatives,0.1526572738437931
+HBTPF,BETAPRO CRDE OIL INV LEV DLY BR,,Equities,0.1594487382962515
+HDG,ProShares Hedge Replication ETF,Multistrategy,Equities,-0.5793890394250201
+HDGE,Ranger Equity Bear Bear ETF,Trading--Inverse Equity,Equities,-0.6554194781804332
+HDV,iShares Core High Dividend ETF,Large Value,Equities,0.3351709718151585
+HEDJ,WisdomTree Europe Hedged Equity,Europe Stock,Equities,0.2285679468177843
+HNUZF,BETAPRO NAT GAS LEV DAILY BULL ,,Equities,-0.483082541832935
+HYD,VanEck ETF Trust VanEck High Yi,High Yield Muni,Equities,0.2291019452349621
+HYEM,VanEck Emerging Markets High Yi,Emerging Markets Bond,Fixed Income,0.4104015308108488
+HYG,iShares iBoxx $ High Yield Corp,High Yield Bond,Fixed Income,-0.0123722857923955
+HYHG,ProShares High Yield Interest R,Nontraditional Bond,Fixed Income,-0.1954052631748051
+HYLS,First Trust Tactical High Yield,High Yield Bond,Fixed Income,-0.0203743675436625
+HYMB,SPDR Nuveen ICE High Yield Muni,High Yield Muni,Equities,0.1165517295201033
+HYS,PIMCO 0-5 Year High Yield Corpo,High Yield Bond,Fixed Income,0.1492977439679587
+HYXU,iShares International High Yiel,High Yield Bond,Fixed Income,-0.2593440140618905
+HYZD,WisdomTree Interest Rate Hedged,Nontraditional Bond,Fixed Income,0.1341811895566157
+HZNSF,BETAPRO CDN GLD MN2X DLY BL ETF,,Equities,-0.0081657182024746
+HZOZF,BETAPRO CRUDE OIL LEV DLY BULL ,,Equities,-0.3059347571659442
+IAI,iShares U.S. Broker-Dealers & S,Financial,Equities,0.3765688043087047
+IAK,iShares U.S. Insurance ETF,Financial,Equities,0.2400412158044264
+IAT,iShares U.S. Regional Banks ETF,Financial,Equities,0.2018036834518296
+IBB,iShares Biotechnology ETF,Health,Equities,-0.0492982114236201
+IBND,SPDR Bloomberg International Co,Global Bond,Fixed Income,-0.437275245201974
+ICF,iShares Select U.S. REIT ETF,Real Estate,Alternatives,0.0854689201941878
+ICLN,iShares Global Clean Energy ETF,Miscellaneous Sector,Equities,-0.1073324536574128
+ICSH,iShares Ultra Short Duration Bo,Ultrashort Bond,Fixed Income,-3.360124107401188
+IDGT,iShares U.S. Digital Infrastruc,Technology,Equities,0.3153574151624979
+IDHQ,Invesco S&P International Devel,Foreign Large Growth,Equities,0.1291546236449601
+IDLV,Invesco S&P International Devel,Foreign Large Blend,Equities,0.0204619436563361
+IDMO,Invesco S&P International Devel,Foreign Large Blend,Equities,-0.1702004084831446
+IDOG,ALPS International Sector Divid,Foreign Large Value,Equities,-0.0596533929119342
+IDU,iShares U.S. Utilities ETF,Utilities,Equities,0.332036164263
+IDV,iShares International Select Di,Foreign Large Value,Equities,-0.1009074791919763
+IDX,VanEck Indonesia Index ETF,Miscellaneous Region,Equities,-0.0970820101439863
+IEF,iShares 7-10 Year Treasury Bond,Long Government,Fixed Income,-0.2611412664921885
+IEFA,iShares Core MSCI EAFE ETF,Foreign Large Blend,Equities,0.0301212485545506
+IEI,iShares 3-7 Year Treasury Bond ,Intermediate Government,Fixed Income,-0.5431783856777528
+IEMG,iShares Core MSCI Emerging Mark,Diversified Emerging Mkts,Equities,0.0404137336482171
+IEO,iShares U.S. Oil & Gas Explorat,Equity Energy,Equities,-0.2468317499488513
+IEUS,iShares MSCI Europe Small-Cap E,Europe Stock,Equities,0.1604394433797814
+IEV,iShares Europe ETF,Europe Stock,Equities,-0.1005950545513636
+IEZ,iShares U.S. Oil Equipment & Se,Equity Energy,Equities,-0.6018583446854243
+IFGL,iShares International Developed,Global Real Estate,Alternatives,-0.006369312369981
+IGE,iShares North American Natural ,Natural Resources,Equities,-0.3667461803171281
+IGF,iShares Global Infrastructure E,Infrastructure,Equities,-0.0933762471488936
+IGHG,ProShares Investment Grade-Inte,Nontraditional Bond,Fixed Income,-0.3189418490245344
+IGIB,iShares 5-10 Year Investment Gr,Corporate Bond,Fixed Income,-0.5653097148927104
+IGLB,iShares 10  Year Investment Gra,Long-Term Bond,Fixed Income,-0.1085559146253092
+IGM,iShares Expanded Tech Sector ET,Technology,Equities,0.760748120222114
+IGOV,iShares International Treasury ,Global Bond,Fixed Income,-0.344631043205042
+IGPT,Invesco AI and Next Gen Softwar,Technology,Equities,0.8609016166555798
+IGSB,iShares 1-5 Year Investment Gra,Short-Term Bond,Fixed Income,-2.225354335013743
+IGV,iShares Expanded Tech-Software ,Technology,Equities,0.8996319125911709
+IHE,iShares U.S. Pharmaceutical ETF,Health,Equities,-0.1189152944496058
+IHF,iShares U.S. Health Care Provid,Health,Equities,0.4230810407253072
+IHI,iShares U.S. Medical Devices ET,Health,Equities,0.8801205226172462
+IHSFF,ISHARES II PLC USD TIPS UCITS E,,Equities,-0.3806279161259521
+IHSZF,ISHARES II PLC MSCI EM LAT AM U,,Equities,-0.0124365587225168
+IHY,VanEck International High Yield,High Yield Bond,Fixed Income,0.1425828392736252
+IJH,iShares Core S&P Mid-Cap ETF,Mid-Cap Blend,Equities,0.2162181583740448
+IJJ,iShares S&P Mid-Cap 400 Value E,Small Value,Equities,0.12068168643662
+IJK,iShares S&P Mid-Cap 400 Growth ,Mid-Cap Growth,Equities,0.2652419194706006
+IJR,iShares Core S&P Small-Cap ETF,Small Blend,Equities,0.2853872235396878
+IJS,iShares S&P SmallCap 600 Value ,Small Value,Equities,0.1567043524940851
+IJT,iShares S&P SmallCap 600 Growth,Small Growth,Equities,0.3919385643228567
+ILCB,iShares Morningstar Large-Cap E,Large Blend,Equities,0.2831014554696733
+ILCG,iShares Morningstar Large-Cap G,Large Growth,Equities,0.5394112905623369
+ILCV,iShares Morningstar Large-Cap  ,Large Value,Equities,0.2748961850115816
+ILF,iShares Latin America 40 ETF,Latin America Stock,Equities,0.0695871058089446
+ILTB,iShares Core 10  Year USD Bond ,Long-Term Bond,Fixed Income,-0.0761287479082962
+IMCB,iShares Morningstar Mid-Cap ETF,Mid-Cap Blend,Equities,0.1343099500562438
+IMCG,iShares Morningstar Mid-Cap Gro,Mid-Cap Growth,Equities,0.28136304617714
+IMCV,iShares Morningstar Mid-Cap Val,Mid-Cap Value,Equities,0.2168835697087456
+INCO,Columbia India Consumer ETF,India Equity,Equities,0.3432019037627863
+INDA,Ishares MSCI India ETF,India Equity,Equities,0.1220078724394223
+INDL,Direxion Daily MSCI India Bull ,Trading--Leveraged Equity,Equities,0.1212114162343939
+INDY,iShares India 50 ETF,India Equity,Equities,0.1752976274307719
+INITF,ISHARES CORE CAD SHT TRM BD IDX,,Equities,-0.6700915516759413
+INKM,SPDR SSgA Income Allocation ETF,Global Moderately Conservative Allocation,Blended / Multi-Asset,-0.0995528161200694
+IOO,iShares Global 100 ETF,Global Large-Stock Blend,Equities,0.2424341309514216
+IOOXF,iShares Core Canadian Long Term,,Equities,-0.6099887759533736
+IPO,Renaissance IPO ETF,Mid-Cap Growth,Equities,-0.0004211660113127
+IQDF,FlexShares International Qualit,Foreign Large Value,Equities,-0.1498325592145475
+IQDY,FlexShares International Qualit,Foreign Large Value,Equities,-0.0890591869947162
+IRSHF,ISHARES CORE S&P/TSX COMPOSITE ,,Equities,-0.0826915818895826
+ISARF,ISHARES CORE CDN UNIVERSE BD ID,,Equities,-0.6814185305761385
+ISCB,iShares Morningstar Small-Cap E,Small Blend,Equities,0.0744155788028184
+ISCG,iShares Morningstar Small-Cap G,Small Growth,Equities,0.2630554375861775
+ISCV,iShares Morningstar Small-Cap V,Small Value,Equities,-0.0379624949863236
+ISDJF,ISHARES CA SLCT DIVD INDEX ETF ,,Equities,-0.0578827767146879
+ISDXF,ISHARES CORE CDN CORPORATE BD I,,Equities,-0.4181962113136643
+ISHG,iShares 1-3 Year International ,Global Bond,Fixed Income,-0.5986683076957605
+ISHXF,ISHARES CORE CANADIAN GOVT BO I,,Equities,-0.5975663197929041
+ISRA,VanEck Israel ETF,Miscellaneous Region,Equities,-0.1166120929617149
+ISTB,iShares Core 1-5 Year USD Bond ,Short-Term Bond,Fixed Income,-1.209171775312175
+ITA,iShares U.S. Aerospace & Defens,Industrials,Equities,0.629371425106023
+ITB,iShares U.S. Home Construction ,Consumer Cyclical,Equities,0.1525871258990805
+ITM,VanEck ETF Trust VanEck Interme,Muni National Interm,Equities,-0.1230949818846676
+ITOT,iShares Core S&P Total U.S. Sto,Large Blend,Equities,0.3705979903136507
+ITSXF,ISHARES S&P/TSX CAPPED FIN IND ,,Equities,0.0782196567548605
+IUNSF,ISHARES S&P/TSX CAPPED ENRG IND,,Equities,-0.3171306682771584
+IUSG,iShares Core S&P U.S. Growth ET,Large Growth,Equities,0.5240354108720581
+IUSPF,ISHARES S&P/TSX CAPPED REIT IND,,Alternatives,0.1033185669850742
+IUSV,iShares Core S&P U.S. Value ETF,Large Value,Equities,0.1593847639579476
+IUTCF,iUnits S&P/TSX Capped Gold Inde,,Alternatives,0.1466358396845415
+IUTSF,ISHARES S&P/TSX 60 INDEX ETF UN,,Equities,-0.1673477286726317
+IVE,iShares S&P 500 Value ETF,Large Value,Equities,0.1645957066587461
+IVOG,Vanguard S&P Mid-Cap 400 Growth,Mid-Cap Growth,Equities,0.2565622473701875
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Mid-Cap Blend,Equities,0.2204622105025253
+IVOV,Vanguard S&P Mid-Cap 400 Value ,Small Value,Equities,0.1142160570561811
+IVV,iShares Core S&P 500 ETF,Large Blend,Equities,0.3776124936550666
+IVW,iShares S&P 500 Growth ETF,Large Growth,Equities,0.5339231350366609
+IWB,iShares Russell 1000 ETF,Large Blend,Equities,0.373028658552709
+IWC,iShares Microcap ETF,Small Blend,Equities,0.0786730610122398
+IWD,iShares Russell 1000 Value ETF,Large Value,Equities,0.1343114974141599
+IWF,iShares Russell 1000 Growth ETF,Large Growth,Equities,0.5564107314155436
+IWL,iShares Russell Top 200 ETF,Large Blend,Equities,0.4071539324028818
+IWM,iShares Russell 2000 ETF,Small Blend,Equities,0.1554899422999087
+IWN,iShares Russell 2000 Value ETF,Small Value,Equities,0.0957854470169993
+IWO,iShares Russell 2000 Growth ETF,Small Growth,Equities,0.2040206286324324
+IWP,iShares Russell Midcap Growth E,Mid-Cap Growth,Equities,0.2915911409086038
+IWR,iShares Russell Mid-Cap ETF,Mid-Cap Blend,Equities,0.1743901945218067
+IWS,iShares Russell Mid-cap Value E,Mid-Cap Value,Equities,0.0592554348947338
+IWV,iShares Russell 3000 ETF,Large Blend,Equities,0.3491287898589243
+IWX,iShares Russell Top 200 Value E,Large Value,Equities,0.1589560058970846
+IWY,iShares Russell Top 200 Growth ,Large Growth,Equities,0.6310619186784096
+IXC,iShares Global Energy ETF,Equity Energy,Equities,-0.2197032430601477
+IXG,iShares Global Financial ETF,Financial,Equities,0.0554979095804652
+IXJ,iShares Global Healthcare ETF,Health,Equities,0.2216922277095282
+IXN,iShares Global Tech ETF,Technology,Equities,0.6252657584760267
+IXP,iShares Global Comm Services ET,Communications,Equities,-0.2205034257569391
+IXUS,iShares Core MSCI Total Interna,Foreign Large Blend,Equities,0.0021631612137386
+IYC,iShares U.S. Consumer Discretio,Consumer Cyclical,Equities,0.4289634984787319
+IYE,iShares U.S. Energy ETF,Equity Energy,Equities,-0.3627443549507023
+IYF,iShares U.S. Financial ETF,Financial,Equities,0.2725859822053721
+IYG,iShares U.S. Financial Services,Financial,Equities,0.2784123325930168
+IYH,iShares U.S. Healthcare ETF,Health,Equities,0.3551360795363268
+IYJ,iShares U.S. Industrials ETF,Industrials,Equities,0.2921131673121404
+IYK,iShares U.S. Consumer Staples E,Consumer Defensive,Equities,0.0164869385564598
+IYLD,iShares Morningstar Multi-Asset,Global Moderately Conservative Allocation,Blended / Multi-Asset,-0.0757498075316498
+IYM,iShares U.S. Basic Materials ET,Natural Resources,Equities,0.0363422374050082
+IYR,iShares U.S. Real Estate ETF,Real Estate,Alternatives,0.0882846667681698
+IYT,iShares Trust iShares U.S. Tran,Industrials,Equities,-0.0123706840938547
+IYW,iShares U.S. Technology ETF,Technology,Equities,0.6237052689896949
+IYY,iShares Dow Jones U.S. ETF,Large Blend,Equities,0.3457590604074886
+IYZ,iShares U.S. Telecommunications,Communications,Equities,-0.1407174697665272
+JDST,Direxion Daily Junior Gold Mine,Trading--Inverse Equity,Alternatives,-0.6513430161413407
+JNK,SPDR Bloomberg High Yield Bond ,High Yield Bond,Fixed Income,-0.0657131231599241
+JNUG,Direxion Daily Junior Gold Mine,Trading--Leveraged Equity,Alternatives,0.2021356483984014
+JPXN,iShares JPX-Nikkei 400 ETF,Japan Stock,Equities,0.1779980419141875
+JXI,iShares Global Utilities ETF,Utilities,Equities,0.1186106520634541
+KBE,SPDR S&P Bank ETF,Financial,Equities,0.1662899353200055
+KBWB,Invesco KBW Bank ETF,Financial,Equities,0.2090848493733333
+KBWD,Invesco KBW High Dividend Yield,Financial,Equities,0.0332188558541843
+KBWP,Invesco KBW Property & Casualty,Financial,Equities,0.6227530597928059
+KBWR,Invesco KBW Regional Banking ET,Financial,Equities,0.182698168392106
+KBWY,Invesco KBW Premium Yield Equit,Real Estate,Alternatives,-0.0760923260131995
+KCE,SPDR S&P Capital Markets ETF,Financial,Equities,-0.0121213034576238
+KIE,SPDR S&P Insurance ETF,Financial,Equities,0.4470570773389454
+KNCT,Invesco Next Gen Connectivity E,Technology,Equities,0.4016935275498887
+KORU,Direxion Daily South Korea Bull,Trading--Leveraged Equity,Equities,0.1053810629776545
+KRE,SPDR S&P Regional Banking ETF,Financial,Equities,0.2070015076358536
+KWEB,KraneShares Trust KraneShares C,China Region,Equities,0.1724524715635626
+KXI,iShares Global Consumer Staples,Consumer Defensive,Equities,0.0470035428202631
+LDUR,PIMCO Enhanced Low Duration Act,Short-Term Bond,Fixed Income,-0.5693115957881197
+LEMB,iShares J.P. Morgan EM Local Cu,Emerging-Markets Local-Currency Bond,Fixed Income,-0.3626048519284418
+LGLV,SPDR SSGA US Large Cap Low Vola,Large Blend,Equities,0.5634033366611344
+LIT,Global X Lithium & Battery Tech,Natural Resources,Equities,0.2658958567977916
+LQD,iShares iBoxx $ Investment Grad,Corporate Bond,Fixed Income,-0.1932371747255541
+LTL,ProShares Ultra Communication S,Trading--Leveraged Equity,Equities,-0.1913804242491186
+LTPZ,Pimco 15  Year U.S. TIPS Index ,Inflation-Protected Bond,Fixed Income,-0.2797799069562519
+MBB,iShares MBS ETF,Intermediate Government,Equities,-0.6053680094508106
+MCHI,iShares MSCI China ETF,China Region,Equities,0.1032014741605677
+MDIV,Multi-Asset Diversified Income ,Aggressive Allocation,Blended / Multi-Asset,-0.3041770801212264
+MDY,SPDR S&P MidCap 400 ETF Trust,Mid-Cap Blend,Equities,0.1972341655160148
+MDYG,SPDR S&P 400 Mid Cap Growth ETF,Mid-Cap Growth,Equities,0.2695371515830818
+MDYV,SPDR S&P 400 Mid Cap Value ETF ,Small Value,Equities,0.1568248183480805
+MGC,Vanguard Mega Cap ETF,Large Blend,Equities,0.413287696240755
+MGK,Vanguard Mega Cap Growth ETF,Large Growth,Equities,0.4600033017225989
+MGV,Vanguard Mega Cap Value ETF,Large Value,Equities,0.3551499697497685
+MIDU,Direxion Mid Cap Bull 3X Shares,Trading--Leveraged Equity,Equities,0.2426751820778722
+MINT,PIMCO Enhanced Short Maturity A,Ultrashort Bond,Fixed Income,-2.9736238931579972
+MLN,VanEck ETF Trust VanEck Long Mu,Muni National Long,Equities,-0.0286817012420554
+MLPA,Global X MLP ETF,Energy Limited Partnership,Equities,-0.5677932176648959
+MLPX,Global X MLP & Energy Infrastru,Energy Limited Partnership,Equities,-0.43284877483563
+MMTM,SPDR S&P 1500 Momentum Tilt ETF,Large Blend,Equities,0.3690994327221955
+MNA,NYLI Merger Arbitrage ETF,Event Driven,Equities,0.1491819329080789
+MOAT,VanEck Morningstar Wide Moat ET,Large Blend,Equities,0.446479189405715
+MOO,VanEck Agribusiness ETF,Natural Resources,Equities,0.1753828177056046
+MORT,VanEck Mortgage REIT Income ETF,Real Estate,Alternatives,0.2501716167589108
+MRGR,ProShares Merger ETF,Event Driven,Equities,-0.4647930934730435
+MTUM,iShares MSCI USA Momentum Facto,Large Blend,Equities,0.7022484848439186
+MUB,iShares National Muni Bond ETF,Muni National Interm,Fixed Income,-0.256297901882062
+MUNI,PIMCO Intermediate Municipal Bo,Muni National Interm,Equities,-0.4201137472725851
+MVV,ProShares Ultra MidCap400,Trading--Leveraged Equity,Equities,0.2329824847203637
+MXI,iShares Global Materials ETF,Natural Resources,Equities,0.0730923889108256
+MYY,ProShares Short MidCap400,Trading--Inverse Equity,Equities,-0.6530760022238608
+MZZ,ProShares UltraShort MidCap400,Trading--Inverse Equity,Equities,-0.546881317886491
+NEAR,iShares Short Duration Bond Act,Short-Term Bond,Fixed Income,-4.307029089755444
+NFRA,FlexShares STOXX Global Broad I,Infrastructure,Equities,-0.0550900456172252
+NFTY,First Trust India Nifty 50 Equa,India Equity,Equities,0.0318734463838946
+NLR,VanEck Uranium and Nuclear ETF,Miscellaneous Sector,Equities,0.0184238425924413
+NOBL,ProShares S&P 500 Dividend Aris,Large Value,Equities,0.3942004579865848
+NORW,Global X MSCI Norway ETF,Miscellaneous Region,Equities,-0.1117144905560286
+NUGT,Direxion Daily Gold Miners Inde,Trading--Leveraged Equity,Alternatives,0.1519620215905039
+NXTG,First Trust Indxx NextG ETF,Technology,Equities,0.1523325025132509
+NYF,iShares New York Muni Bond ETF,Muni New York Long,Fixed Income,-0.2658439151141906
+OEF,iShares S&P 100 ETF,Large Blend,Equities,0.396939147311849
+OIH,VanEck Oil Services ETF,Equity Energy,Equities,-0.6204548247820133
+ONEQ,Fidelity Nasdaq Composite Index,Large Growth,Equities,0.5113399039858137
+OPPJ,WisdomTree Japan Opportunities ,,Equities,0.4234038724571569
+PBD,Invesco Global Clean Energy ETF,Global Small/Mid Stock,Equities,-0.1695767421286931
+PBE,Invesco Biotechnology & Genome ,Health,Equities,-0.0328554201124827
+PBJ,Invesco Food & Beverage ETF,Consumer Defensive,Equities,-0.1691658300201866
+PBP,Invesco S&P 500 BuyWrite ETF,Derivative Income,Equities,0.1358332025826878
+PBW,Invesco WilderHill Clean Energy,Small Growth,Equities,-0.2181480552673947
+PCEF,Invesco CEF Income Composite ET,Global Moderate Allocation,Blended / Multi-Asset,0.1103180601880731
+PCY,Invesco Emerging Markets Sovere,Emerging Markets Bond,Fixed Income,0.0945082946859911
+PDN,Invesco RAFI Developed Markets ,Foreign Small/Mid Value,Equities,0.117867589635357
+PDP,Invesco Dorsey Wright Momentum ,Large Growth,Equities,0.184122448492379
+PEJ,Invesco Leisure and Entertainme,Consumer Cyclical,Equities,0.0956020335362165
+PEX,ProShares Global Listed Private,Miscellaneous Sector,Equities,0.1210918235599448
+PEY,Invesco High Yield Equity Divid,Mid-Cap Value,Equities,0.4763375736960832
+PEZ,Invesco Dorsey Wright Consumer ,Consumer Cyclical,Equities,-0.016527209506824
+PFF,iShares Preferred and Income Se,Preferred Stock,Equities,-0.1513800366180485
+PFI,Invesco Dorsey Wright Financial,Financial,Equities,-0.2010226708361479
+PFIG,Invesco Fundamental Investment ,Corporate Bond,Fixed Income,-0.3994828910659474
+PFXF,VanEck Preferred Securities ex ,Preferred Stock,Equities,-0.1372084724382138
+PGF,Invesco Financial Preferred ETF,Preferred Stock,Equities,0.3217760537208659
+PGHY,Invesco Global ex-US High Yield,High Yield Bond,Fixed Income,0.4891076596028743
+PGJ,Invesco Golden Dragon China ETF,China Region,Alternatives,0.1732948513908871
+PGX,Invesco Preferred ETF,Preferred Stock,Equities,0.0965197077712859
+PHB,Invesco Fundamental High Yield ,High Yield Bond,Fixed Income,-0.0634198047297446
+PHDG,Invesco S&P 500 Downside Hedged,Equity Hedged,Equities,-0.1334924603257364
+PHO,Invesco Water Resources ETF,Natural Resources,Equities,0.0532774321665332
+PICB,Invesco International Corporate,Global Bond,Fixed Income,-0.5026335643801455
+PICK,iShares MSCI Global Select Meta,Natural Resources,Equities,0.0621157433953008
+PID,Invesco International Dividend ,Foreign Large Value,Equities,-0.2587385973704543
+PIE,Invesco Dorsey Wright Emerging ,Diversified Emerging Mkts,Equities,-0.2526607606039209
+PIN,Invesco India ETF,India Equity,Equities,0.1595115549210923
+PIO,Invesco Global Water ETF,Natural Resources,Equities,-0.0442304847862059
+PIZ,Invesco Dorsey Wright Developed,Foreign Large Growth,Equities,-0.1435623897275794
+PJP,Invesco Pharmaceuticals ETF,Health,Equities,-0.0234869981491515
+PKB,Invesco Building & Construction,Industrials,Equities,0.0714541686795386
+PKW,Invesco BuyBack Achievers ETF,Mid-Cap Value,Equities,0.081026844270489
+PNQI,Invesco Nasdaq Internet ETF,Technology,Equities,0.6289605987977572
+POWA,Invesco Bloomberg Pricing Power,Large Blend,Equities,0.3490416147185959
+PPA,Invesco Aerospace & Defense ETF,Industrials,Equities,0.5444345185433453
+PPH,VanEck Pharmaceutical ETF,Health,Equities,-0.2483204324816289
+PRF,Invesco RAFI US 1000 ETF,Large Value,Equities,0.198942114499108
+PRFZ,Invesco RAFI US 1500 Small-Mid ,Small Blend,Equities,0.1598426387326182
+PRN,Invesco Dorsey Wright Industria,Industrials,Equities,0.0292344895093208
+PSCC,Invesco S&P SmallCap Consumer S,Consumer Defensive,Equities,0.3807187828786845
+PSCD,Invesco S&P SmallCap Consumer D,Consumer Cyclical,Equities,0.076615034212362
+PSCE,Invesco S&P SmallCap Energy ETF,Equity Energy,Equities,-0.6170193376483238
+PSCF,Invesco S&P SmallCap Financials,Financial,Equities,0.2654133815322033
+PSCH,Invesco S&P SmallCap Health Car,Health,Equities,0.6916455282039601
+PSCI,Invesco S&P SmallCap Industrial,Industrials,Equities,0.2107242415250281
+PSCM,Invesco S&P SmallCap Materials ,Natural Resources,Equities,-0.0477853389032584
+PSCT,Invesco S&P SmallCap Informatio,Technology,Equities,0.4122653667602983
+PSCU,Invesco S&P SmallCap Utilities ,Utilities,Equities,0.4570351037232206
+PSI,Invesco Semiconductors ETF,Technology,Equities,0.6334461625549842
+PSK,SPDR ICE Preferred Securities E,Preferred Stock,Equities,0.1349594143050452
+PSL,Invesco Dorsey Wright Consumer ,Consumer Defensive,Equities,0.4883740581083579
+PSP,Invesco Global Listed Private E,Global Small/Mid Stock,Equities,0.1829611097146753
+PSQ,ProShares Short QQQ,Trading--Inverse Equity,Equities,-1.0891866800305117
+PSR,Invesco Active U.S. Real Estate,Real Estate,Alternatives,0.0489942845142265
+PST,ProShares UltraShort Lehman 7-1,Trading--Inverse Debt,Equities,-0.5426559402325141
+PTF,Invesco Dorsey Wright Technolog,Technology,Equities,0.3802962561381456
+PTH,Invesco Dorsey Wright Healthcar,Health,Equities,0.2792899616612465
+PUI,Invesco Dorsey Wright Utilities,Utilities,Equities,0.4483392635664081
+PVI,Invesco Floating Rate Municipal,Muni National Short,Equities,-8.87196805283377
+PWB,Invesco Large Cap Growth ETF,Large Growth,Equities,0.6160460949460487
+PWV,Invesco Large Cap Value ETF,Large Value,Equities,0.0780372023713483
+PWZ,Invesco California AMT-Free Mun,Muni California Long,Equities,-0.0382838707476971
+PXE,Invesco Energy Exploration & Pr,Equity Energy,Equities,-0.2297665182533046
+PXF,Invesco RAFI Developed Markets ,Foreign Large Value,Equities,-0.0263367997394782
+PXH,Invesco RAFI Emerging Markets E,Diversified Emerging Mkts,Equities,0.1592124950895159
+PXHI,"PhoneX Holdings, Inc.",,Equities,0.3276961353939203
+PXI,Invesco Dorsey Wright Energy Mo,Equity Energy,Equities,-0.3413019597295287
+PXJ,Invesco Oil & Gas Services ETF,Equity Energy,Equities,-0.7348969654859293
+PZA,Invesco National AMT-Free Munic,Muni National Long,Equities,-0.0181720883417215
+PZT,Invesco New York AMT-Free Munic,Muni New York Long,Equities,-0.1110982611106399
+QABA,First Trust NASDAQ ABA Communit,Financial,Equities,0.2155423816902054
+QAI,NYLI Hedge Multi-Strategy Track,Multistrategy,Equities,-0.7076106534900759
+QCLN,First Trust NASDAQ Clean Edge G,Miscellaneous Sector,Equities,-0.0092155055065926
+QDEF,FlexShares Quality Dividend Def,Large Value,Equities,0.2491608680242897
+QDF,FlexShares Quality Dividend Ind,Large Value,Equities,0.2332492871701405
+QID,ProShares UltraShort QQQ,Trading--Inverse Equity,Equities,-1.041691483028103
+QLD,ProShares Ultra QQQ,Trading--Leveraged Equity,Equities,0.6097811522850456
+QLTA,iShares Aaa A Rated Corporate B,Corporate Bond,Fixed Income,-0.2503803059347091
+QQEW,First Trust NASDAQ-100 Equal We,Large Growth,Equities,0.3371350674541649
+QQQ,"Invesco QQQ Trust, Series 1",Large Growth,Equities,0.6089223546651644
+QQQE,Direxion NASDAQ-100 Equal Weigh,Large Growth,Equities,0.3483828492766279
+QQXT,First Trust NASDAQ-100 Ex-Techn,Large Blend,Equities,0.1137273237717364
+QTEC,First Trust NASDAQ-100-Technolo,Technology,Equities,0.6406173689007808
+QUAL,iShares MSCI USA Quality Factor,Large Blend,Equities,0.3921052511064626
+QYLD,Global X NASDAQ 100 Covered Cal,Derivative Income,Equities,0.3176764745386299
+RAVI,FlexShares Ultra-Short Income F,Ultrashort Bond,Fixed Income,-3.38626149374727
+RBLD,First Trust Alerian US NextGen ,Industrials,Equities,0.0066596747583399
+RDIV,Invesco Exchange-Traded Fund Tr,Mid-Cap Value,Equities,0.3404389531713784
+RDOG,ALPS ETF Trust ALPS REIT Divide,Real Estate,Alternatives,-0.031003678144286
+RDVY,First Trust Rising Dividend Ach,Large Value,Equities,0.3186138113329971
+REK,ProShares Short Real Estate,Trading--Inverse Equity,Alternatives,-0.563937490030761
+REM,iShares Trust iShares Mortgage ,Real Estate,Alternatives,0.3534469346784714
+REMX,VanEck Rare Earth and Strategic,Equity Precious Metals,Equities,-0.3149378380730421
+RETL,Direxion Daily Retail Bull 3X S,Trading--Leveraged Equity,Equities,0.1070645187386165
+REW,ProShares UltraShort Technology,Trading--Inverse Equity,Equities,-1.0381194773801126
+REZ,iShares Residential and Multise,Real Estate,Alternatives,0.2366523401275139
+RFG,Invesco S&P Midcap 400 Pure Gro,Mid-Cap Growth,Equities,0.0387133325248575
+RFV,Invesco S&P Midcap 400 Pure Val,Small Value,Equities,0.0392378498040217
+RIGS,RiverFront Strategic Income Fun,Multisector Bond,Fixed Income,0.0755304872599305
+RINF,ProShares Inflation Expectation,Nontraditional Bond,Fixed Income,-0.4761728392881772
+RING,iShares MSCI Global Gold Miners,Equity Precious Metals,Alternatives,0.19030500204186
+RLY,SPDR SSgA Multi Asset Real Retu,Global Moderate Allocation,Blended / Multi-Asset,-0.4634398916259882
+ROBO,Exchange Traded Concepts Trust ,Global Small/Mid Stock,Equities,0.2680978121625856
+ROM,ProShares Ultra Technology,Trading--Leveraged Equity,Equities,0.6323076798662984
+RPG,Invesco S&P 500 Pure Growth ETF,Large Growth,Equities,0.3106197244834302
+RPV,Invesco S&P 500 Pure Value ETF,Mid-Cap Value,Equities,0.060535217607412
+RSP,Invesco S&P 500 Equal Weight ET,Large Blend,Equities,0.2172783624365628
+RSPD,Invesco S&P 500 Equal Weight Co,Consumer Cyclical,Equities,-0.0433375542683954
+RSPF,Invesco S&P 500 Equal Weight Fi,Financial,Equities,0.2183096819176196
+RSPG,Invesco S&P 500 Equal Weight En,Equity Energy,Equities,-0.3617095845102636
+RSPH,Invesco S&P 500 Equal Weight He,Health,Equities,0.2729976968322903
+RSPM,Invesco S&P 500 Equal Weight Ma,Natural Resources,Equities,0.16337479862398
+RSPN,Invesco S&P 500 Equal Weight In,Industrials,Equities,0.1764615254350867
+RSPS,Invesco S&P 500 Equal Weight Co,Consumer Defensive,Equities,0.1945180659672965
+RSPT,Invesco S&P 500 Equal Weight Te,Technology,Equities,0.6744116285257442
+RSPU,Invesco S&P 500 Equal Weight Ut,Utilities,Equities,0.3493987155330725
+RTH,VanEck Retail ETF,Consumer Cyclical,Equities,0.4395323002149481
+RVNU,Xtrackers Municipal Infrastruct,Muni National Long,Equities,0.019282112272407
+RWJ,Invesco Exchange-Traded Fund Tr,Small Value,Equities,-0.0265632259079589
+RWK,Invesco Exchange-Traded Fund Tr,Mid-Cap Value,Equities,0.0328045515510775
+RWL,Invesco Exchange-Traded Fund Tr,Large Value,Equities,0.226536477145692
+RWM,ProShares Short Russell2000,Trading--Inverse Equity,Equities,-0.5513756147787651
+RWO,SPDR DJ Wilshire Global Real Es,Global Real Estate,Alternatives,-0.0754258215713882
+RWR,SPDR DJ Wilshire REIT ETF,Real Estate,Alternatives,0.0140258056494241
+RWX,SPDR DJ Wilshire Intl Real Esta,Global Real Estate,Alternatives,-0.157576161730522
+RXD,ProShares UltraShort Health Car,Trading--Inverse Equity,Equities,-0.7100287889163457
+RXI,iShares Global Consumer Discret,Consumer Cyclical,Equities,0.2676005730449249
+RXL,ProShares Ultra Health Care,Trading--Leveraged Equity,Equities,0.3878995754094139
+RZG,Invesco S&P Smallcap 600 Pure G,Small Growth,Equities,0.3139931144168956
+RZV,Invesco S&P Smallcap 600 Pure V,Small Value,Equities,-0.1073784643135649
+SAA,ProShares Ultra SmallCap600,Trading--Leveraged Equity,Equities,0.3032337503293677
+SBB,ProShares Short SmallCap600,Trading--Inverse Equity,Equities,-0.6972507942739812
+SCC,ProShares UltraShort Consumer D,Trading--Inverse Equity,Equities,-0.7795872337706674
+SCHA,Schwab U.S. Small-Cap ETF,Small Blend,Equities,0.127138268986398
+SCHB,Schwab U.S. Broad Market ETF,Large Blend,Equities,0.3387827761386753
+SCHC,Schwab International Small-Cap ,Foreign Small/Mid Blend,Equities,0.036071398980448
+SCHD,Schwab US Dividend Equity ETF,Large Value,Equities,0.4032820864979985
+SCHE,Schwab Emerging Markets Equity ,Diversified Emerging Mkts,Equities,0.0256978639367803
+SCHF,Schwab International Equity ETF,Foreign Large Blend,Equities,-0.0153539951871516
+SCHG,Schwab U.S. Large-Cap Growth ET,Large Growth,Equities,0.4644164288715118
+SCHH,Schwab U.S. REIT ETF,Real Estate,Alternatives,0.0203556867234867
+SCHM,Schwab U.S. Mid Cap ETF,Mid-Cap Blend,Equities,0.2618982355335025
+SCHO,Schwab Short-Term U.S. Treasury,Short Government,Fixed Income,-2.697902287009017
+SCHP,Schwab U.S. TIPs ETF,Inflation-Protected Bond,Fixed Income,-0.5612489271155559
+SCHR,Schwab Intermediate-Term U.S. T,Intermediate Government,Equities,-0.4886163328306916
+SCHV,Schwab U.S. Large-Cap Value ETF,Large Value,Equities,0.2532789125730178
+SCHX,Schwab U.S. Large-Cap ETF,Large Blend,Equities,0.3720067129150003
+SCHZ,Schwab US Aggregate Bond ETF,Intermediate Core Bond,Fixed Income,-0.5156292844150369
+SCJ,iShares MSCI Japan Sm Cap,Japan Stock,Equities,0.4544595856668628
+SCZ,iShares MSCI EAFE Small-Cap ETF,Foreign Small/Mid Blend,Equities,0.2236871814300527
+SDD,ProShares UltraShort SmallCap60,Trading--Inverse Equity,Equities,-0.5742070508024737
+SDIV,Global X SuperDividend ETF,Global Small/Mid Stock,Equities,-0.2247961401226609
+SDOG,ALPS Sector Dividend Dogs ETF,Large Value,Equities,0.1549547415863604
+SDOW,UltraPro Short Dow30,Trading--Inverse Equity,Equities,-0.9977590616248472
+SDP,ProShares UltraShort Utilities,Trading--Inverse Equity,Equities,-0.7633219519000526
+SDS,ProShares UltraShort S&P500,Trading--Inverse Equity,Equities,-0.8218026077809443
+SDY,SPDR S&P Dividend ETF,Mid-Cap Value,Equities,0.4965664930187272
+SEF,ProShares Short Financials,Trading--Inverse Equity,Equities,-0.7432776875563692
+SH,ProShares Short S&P500,Trading--Inverse Equity,Equities,-0.922336870434278
+SHM,SPDR Nuveen ICE Short Term Muni,Muni National Short,Equities,-1.2322174178274956
+SHV,iShares Short Treasury Bond ETF,Ultrashort Bond,Fixed Income,-9.406678804475035
+SHY,iShares 1-3 Year Treasury Bond ,Short Government,Fixed Income,-2.5438657961031432
+SHYD,VanEck ETF Trust VanEck Short H,High Yield Muni,Equities,-0.3169763439379853
+SHYG,iShares 0-5 Year High Yield Cor,High Yield Bond,Fixed Income,0.0038043029290232
+SIJ,ProShares UltraShort Industrial,Trading--Inverse Equity,Equities,-0.6412259456285445
+SIL,Global X Silver Miners ETF,Equity Precious Metals,Equities,0.0672024638297236
+SILJ,Amplify ETF Trust Amplify Junio,Equity Precious Metals,Equities,0.1508173724633036
+SIZE,iShares MSCI USA Size Factor ET,Mid-Cap Blend,Equities,0.3038760682077543
+SJB,ProShares Short High Yield,Trading--Inverse Debt,Equities,-1.4213768470169597
+SJNK,SPDR Bloomberg Short Term High ,High Yield Bond,Fixed Income,0.0272753469476439
+SKF,ProShares UltraShort Financials,Trading--Inverse Equity,Equities,-0.6573557080400909
+SKYY,First Trust Cloud Computing ETF,Technology,Equities,0.8135627511790766
+SLQD,iShares 0-5 Year Investment Gra,Short-Term Bond,Fixed Income,-1.2388783725221926
+SLVO,ETRACS Silver Shares Covered Ca,Commodities Focused,Equities,-0.2012607524703417
+SLVP,iShares MSCI Global Silver Mine,Equity Precious Metals,Equities,0.1300817951407975
+SLX,VanEck Steel ETF,Natural Resources,Equities,0.1501886988732766
+SLYG,SPDR S&P 600 Small Cap Growth E,Small Growth,Equities,0.4388156170427146
+SLYV,SPDR S&P 600 Small Cap Value ET,Small Value,Equities,0.2563072678873493
+SMB,VanEck ETF Trust VanEck Short M,Muni National Short,Equities,-0.8497993846539446
+SMDD,UltraPro Short MidCap400,Trading--Inverse Equity,Equities,-0.5549271915592143
+SMH,VanEck Semiconductor ETF,Technology,Equities,0.6104878034178208
+SMIN,Ishares MSCI India Small Cap ET,India Equity,Equities,0.1967772797146894
+SMLV,SPDR SSGA US Small Cap Low Vola,Small Value,Equities,0.2642201484568597
+SMMU,Short Term Municipal Bond Activ,Muni National Short,Fixed Income,-1.2128608755935184
+SMN,ProShares UltraShort Materials,Trading--Inverse Equity,Equities,-0.3119076885016961
+SMOG,VanEck Low Carbon Energy ETF,Miscellaneous Sector,Equities,-0.0291483928536799
+SOCL,Global X Social Media ETF,Communications,Equities,0.540070825956565
+SOXL,Direxion Daily Semiconductor Bu,Trading--Leveraged Equity,Equities,0.639284926678655
+SOXS,Direxion Daily Semiconductor Be,Trading--Inverse Equity,Equities,-1.0908650541204772
+SOXX,iShares Semiconductor ETF,Technology,Equities,0.6690555663986187
+SPAB,SPDR Portfolio Aggregate Bond E,Intermediate Core Bond,Fixed Income,-0.467237000334618
+SPBO,SPDR Portfolio Corporate Bond E,Corporate Bond,Fixed Income,-0.3060597096236255
+SPDW,SPDR Portfolio Developed World ,Foreign Large Blend,Equities,0.0071883176273711
+SPEM,SPDR Index Shares Fund SPDR Por,Diversified Emerging Mkts,Equities,0.048295196589917
+SPEU,SPDR Portfolio Europe ETF,Europe Stock,Equities,-0.1456162072272539
+SPFF,Global X SuperIncome Preferred ,Preferred Stock,Equities,-0.58331063564423
+SPGM,SPDR Portfolio MSCI Global Stoc,Global Large-Stock Blend,Equities,0.1480247481915856
+SPGP,Invesco S&P 500 GARP ETF,Large Value,Equities,0.5361953831394354
+SPHB,Invesco S&P 500 High Beta ETF,Mid-Cap Blend,Equities,0.053267731125236
+SPHD,Invesco S&P 500 High Dividend L,Large Value,Equities,0.4904686189049793
+SPHQ,Invesco S&P 500 Quality ETF,Large Blend,Equities,0.3623209751343738
+SPHY,SPDR Portfolio High Yield Bond ,High Yield Bond,Fixed Income,0.0121808722748482
+SPIB,SPDR Portfolio Intermediate Ter,Corporate Bond,Fixed Income,-0.3807534688304059
+SPIP,SPDR Portfolio TIPS ETF,Inflation-Protected Bond,Fixed Income,-0.5631911954525893
+SPLB,SPDR Portfolio Long Term Corpor,Long-Term Bond,Fixed Income,-0.0385704989355717
+SPLG,SPDR Portfolio S&P 500 ETF,Large Blend,Equities,0.3617646858893326
+SPLV,Invesco S&P 500 Low Volatility ,Large Value,Equities,0.5085790162864703
+SPMB,SPDR Portfolio Mortgage Backed ,Intermediate Government,Equities,-0.489448404184456
+SPMD,SPDR Portfolio S&P 400 Mid Cap ,Mid-Cap Blend,Equities,0.0189415614765109
+SPSB,SPDR Portfolio Short Term Corpo,Short-Term Bond,Fixed Income,-1.6349268269272768
+SPSM,SPDR Portfolio S&P 600 Small Ca,Small Blend,Equities,0.1686551203748507
+SPTI,SPDR Portfolio Intermediate Ter,Intermediate Government,Equities,-0.6907607299023153
+SPTL,SPDR Portfolio Long Term Treasu,Long Government,Equities,-0.0760142566313183
+SPTM,SPDR Portfolio S&P 1500 Composi,Large Blend,Equities,0.3493496878353325
+SPTS,SPDR Portfolio Short Term Treas,Short Government,Equities,-1.557194266007795
+SPVM,Invesco S&P 500 Value with Mome,Mid-Cap Value,Equities,0.2132362596477197
+SPXL,Direxion Daily S&P 500 Bull 3X ,Trading--Leveraged Equity,Equities,0.4078027811905964
+SPXS,Direxion Daily S&P 500 Bear 3X,Trading--Inverse Equity,Equities,-0.8512750344849564
+SPXU,ProShares UltraPro Short S&P500,Trading--Inverse Equity,Equities,-0.8223821129315999
+SPY,SPDR S&P 500,Large Blend,Equities,0.3865900530380471
+SPYG,SPDR Series Trust SPDR Portfoli,Large Growth,Equities,0.5255813304590485
+SPYV,SPDR Series Trust SPDR Portfoli,Large Value,Equities,0.1672430994124118
+SQQQ,ProShares UltraPro Short QQQ,Trading--Inverse Equity,Equities,-1.0689519424195992
+SRLN,SPDR Blackstone Senior Loan ETF,Bank Loan,Equities,-0.2862291113637438
+SRS,ProShares UltraShort Real Estat,Trading--Inverse Equity,Equities,-0.4990246523557409
+SRTY,ProShares UltraPro Short Russel,Trading--Inverse Equity,Equities,-0.4441884334460991
+SSG,ProShares UltraShort Semiconduc,Trading--Inverse Equity,Equities,-0.9035395210418298
+SSO,ProShares Ultra S&P500,Trading--Leveraged Equity,Equities,0.4051163369481821
+STIP,iShares 0-5 Year TIPS Bond ETF,Short-Term Inflation-Protected Bond,Fixed Income,-1.545816641914066
+STPZ,PIMCO 1-5 Year U.S. TIPS Index ,Short-Term Inflation-Protected Bond,Fixed Income,-1.4184334298049588
+SUB,iShares Short-Term National Mun,Muni National Short,Liquidity,-1.817032556278013
+SURE,AdvisorShares Insider Advantage,Mid-Cap Blend,Equities,0.0001200748738747
+SUSA,iShares ESG Optimized MSCI USA ,Large Blend,Equities,0.3102373459109198
+SVRZF,PURPOSE SILVER BULLION FUND ETF,,Equities,-0.0402901961949921
+SVXY,ProShares Short VIX Short Term ,Trading--Miscellaneous,Equities,0.2907920768363864
+SYLD,Cambria Shareholder Yield ETF,Mid-Cap Value,Equities,-0.0781893913158366
+SZK,ProShares UltraShort Consumer S,Trading--Inverse Equity,Equities,-0.0003427773463342
+TAN,Invesco Solar ETF,Miscellaneous Sector,Equities,-0.3975945037810122
+TBF,ProShares Short 20+ Year Treasu,Trading--Inverse Debt,Equities,-0.4617486033174481
+TBT,ProShares UltraShort Lehman 20 ,Trading--Inverse Debt,Equities,-0.3290453716208686
+TBX,ProShares Short 7 10 Year Treas,Trading--Inverse Debt,Equities,-0.8438665056512231
+TDIV,First Trust NASDAQ Technology D,Technology,Equities,0.3428027824712735
+TDTF,FlexShares iBoxx 5 Year Target ,Inflation-Protected Bond,Fixed Income,-0.5955099973333959
+TDTT,FlexShares iBoxx 3 Year Target ,Short-Term Inflation-Protected Bond,Fixed Income,-1.2244564922826555
+TECL,Direxion Technology Bull 3X Sha,Trading--Leveraged Equity,Equities,0.6452917535529262
+TECS,Direxion Technology Bear 3X Sha,Trading--Inverse Equity,Equities,-1.182240496496507
+TFI,SPDR Nuveen ICE Municipal Bond ,Muni National Long,Fixed Income,-0.1752546755918078
+THD,iShares Inc iShares MSCI Thaila,Miscellaneous Region,Equities,0.1607571197501373
+TILT,FlexShares Mornigstar US Market,Large Blend,Equities,0.2468225152314297
+TIP,iShares TIPS Bond ETF,Inflation-Protected Bond,Fixed Income,-0.5650536577220464
+TIPX,SPDR Bloomberg 1-10 Year TIPS E,Short-Term Inflation-Protected Bond,Fixed Income,-0.5708295594159586
+TIPZ,PIMCO Broad U.S. TIPS Index Exc,Inflation-Protected Bond,Fixed Income,-0.5677755486030275
+TLH,iShares 10-20 Year Treasury Bon,Long Government,Fixed Income,-0.1643667471271189
+TLT,iShares 20+ Year Treasury Bond ,Long Government,Fixed Income,-0.0640831444604069
+TLTD,FlexShares Morningstar Develope,Foreign Large Value,Equities,0.031402642600608
+TLTE,FlexShares Morningstar Emerging,Diversified Emerging Mkts,Equities,0.0377740178916152
+TMF,Direxion Daily 20-Yr Treasury B,Trading--Leveraged Debt,Fixed Income,0.0116030622174701
+TMV,Direxion Daily 20-Year Treasury,Trading--Inverse Debt,Fixed Income,-0.3366060866553984
+TNA,Direxion Small Cap Bull 3X Shar,Trading--Leveraged Equity,Equities,0.1992978359865602
+TOK,iShares MSCI Kokusai ETF,Global Large-Stock Blend,Equities,0.176984870164584
+TPZ,Tortoise Essential Energy Fund,Equity Energy,Equities,-0.196645720235312
+TQQQ,ProShares UltraPro QQQ,Trading--Leveraged Equity,Equities,0.6083266671691872
+TTT,ProShares UltraPro Short 20 Yea,Trading--Inverse Debt,Equities,-0.2926524750430746
+TUR,iShares MSCI Turkey ETF,Miscellaneous Region,Equities,-0.5168556481689303
+TWM,ProShares UltraShort Russell200,Trading--Inverse Equity,Equities,-0.4615479871393186
+TYD,Direxion Daily 10-Yr Treasury B,Trading--Leveraged Debt,Fixed Income,0.0331522921920027
+TYO,Direxion Daily 10-Yr Treasury B,Trading--Inverse Debt,Fixed Income,-0.6226994831620015
+TZA,Direxion Small Cap Bear 3X Shar,Trading--Inverse Equity,Equities,-0.4496575780308793
+UBR,ProShares Ultra MSCI Brazil Cap,Trading--Leveraged Equity,Equities,0.1639802811227618
+UBT,ProShares Ultra 20+ Year Treasu,Trading--Leveraged Debt,Equities,-0.0216737899012731
+UCC,ProShares Ultra Consumer Discre,Trading--Leveraged Equity,Equities,0.4463707744739236
+UDOW,ProShares UltraPro Dow30,Trading--Leveraged Equity,Equities,0.5826564259352107
+UGE,ProShares Ultra Consumer Staple,Trading--Leveraged Equity,Equities,0.0262143054806015
+UJB,ProShares Ultra High Yield ETF,Trading--Leveraged Debt,Equities,0.1352761413033051
+ULST,SPDR SSgA Ultra Short Term Bond,Ultrashort Bond,Fixed Income,-3.094546284773269
+UMDD,UltraPro MidCap400,Trading--Leveraged Equity,Equities,0.2486239683051108
+UPGD,Invesco Bloomberg Analyst Ratin,Mid-Cap Blend,Equities,0.0022174124757234
+UPRO,ProShares UltraPro S&P 500,Trading--Leveraged Equity,Equities,0.4194866661050097
+UPV,ProShares Ultra FTSE Europe,Trading--Leveraged Equity,Equities,-0.0940972857560618
+UPW,ProShares Ultra Utilities,Trading--Leveraged Equity,Equities,0.3532761994574929
+URA,Global X Uranium ETF,Natural Resources,Equities,-0.2829380850949071
+URE,ProShares Ultra Real Estate,Trading--Leveraged Equity,Alternatives,0.104011340998105
+URTH,"iShares, Inc. iShares MSCI Worl",Global Large-Stock Blend,Equities,0.188019715864921
+URTY,ProShares UltraPro Russell2000,Trading--Leveraged Equity,Equities,0.2038267061269884
+USD,ProShares Ultra Semiconductors,Trading--Leveraged Equity,Equities,0.5331083271599476
+USDU,WisdomTree Bloomberg U.S. Dolla,Trading--Miscellaneous,Equities,-0.0818479784768773
+USIG,iShares Broad USD Investment Gr,Corporate Bond,Fixed Income,-0.2766169973087824
+USMV,iShares MSCI USA Min Vol Factor,Large Blend,Equities,0.6356787011329692
+USRT,iShares Core U.S. REIT ETF,Real Estate,Alternatives,0.0573872320289989
+UST,ProShares Ultra 7-10 Year Treas,Trading--Leveraged Debt,Equities,-0.1192153816769345
+UVXY,ProShares Trust Ultra VIX Short,Trading--Miscellaneous,Equities,-0.8127040437341445
+UWM,ProShares Ultra Russell2000,Trading--Leveraged Equity,Equities,0.1814113609204699
+UXI,ProShares Ultra Industrials,Trading--Leveraged Equity,Equities,0.3002009302072037
+UYG,ProShares Ultra Financials,Trading--Leveraged Equity,Equities,0.3041629880708599
+UYM,ProShares Ultra Materials,Trading--Leveraged Equity,Equities,0.0597317454861045
+VAW,Vanguard Materials ETF,Natural Resources,Equities,0.0601881194682142
+VB,Vanguard Small-Cap ETF,Small Blend,Equities,0.1989322725969463
+VBK,Vanguard Small-Cap Growth ETF,Small Growth,Equities,0.2500531838544689
+VBR,Vanguard Small-Cap Value ETF,Small Value,Equities,0.1487145127274202
+VCIT,Vanguard Intermediate-Term Corp,Corporate Bond,Fixed Income,-0.1539797011074487
+VCLT,Vanguard Long-Term Corporate Bo,Long-Term Bond,Fixed Income,-0.0481213035241555
+VCR,Vanguard Consumer Discretion ET,Consumer Cyclical,Equities,0.4037635878443159
+VCSH,Vanguard Short-Term Corporate B,Short-Term Bond,Fixed Income,-0.819059456024753
+VDC,Vanguard Consumer Staples ETF,Consumer Defensive,Equities,0.1461784222154427
+VDE,Vanguard Energy ETF,Equity Energy,Equities,-0.33868564341743
+VEA,Vanguard FTSE Developed Markets,Foreign Large Blend,Equities,0.009176775261047
+VEGA,AdvisorShares STAR Global Buy-W,Derivative Income,Equities,-0.0651811536888244
+VEGI,iShares MSCI Agriculture Produc,Natural Resources,Equities,-0.0501706402399567
+VEU,Vanguard FTSE All World Ex US E,Foreign Large Blend,Equities,-0.0024088019538697
+VFH,Vanguard Financials ETF,Financial,Equities,0.2910168806880785
+VGIT,Vanguard Intermediate-Term Trea,Intermediate Government,Equities,-0.4726522302150175
+VGK,Vanguard FTSEEuropean ETF,Europe Stock,Equities,-0.0533600234589594
+VGLT,Vanguard Long-Term Treasury ETF,Long Government,Fixed Income,-0.0743308692990369
+VGSH,Vanguard Short-Term Treasury ET,Short Government,Fixed Income,-2.4873168197650823
+VGT,Vanguard Information Tech ETF,Technology,Equities,0.6996389497577477
+VHT,Vanguard Health Care ETF,Health,Equities,0.3726269000519573
+VIDI,Vident International Equity Str,Foreign Large Value,Equities,-0.0804184563702704
+VIG,Vanguard Div Appreciation ETF,Large Blend,Equities,0.3958283789543201
+VIOG,Vanguard S&P Small-Cap 600 Grow,Small Growth,Equities,0.3933117831810081
+VIOO,Vanguard S&P Small-Cap 600 ETF,Small Blend,Equities,0.2790172026365732
+VIOV,Vanguard S&P Small-Cap 600 Valu,Small Value,Equities,0.1692105985771509
+VIS,Vanguard Industrials ETF,Industrials,Equities,0.1880772649062884
+VIXM,ProShares Trust VIX Mid-Term Fu,Trading--Miscellaneous,Equities,-0.7257510069228851
+VIXY,ProShares Trust VIX Short-Term ,Trading--Miscellaneous,Liquidity,-0.6328544094089453
+VLU,SPDR S&P 1500 Value Tilt ETF,Large Value,Equities,0.2777051194706738
+VLUE,iShares MSCI USA Value Factor E,Large Value,Equities,0.1775656429682633
+VMBS,Vanguard Mortgage-Backed Securi,Intermediate Government,Equities,-0.618016512520389
+VNM,VanEck Vietnam ETF,Miscellaneous Region,Equities,-0.2743277911066297
+VNQ,Vanguard Real Estate ETF,Real Estate,Alternatives,0.0218408505572803
+VNQI,Vanguard Global ex-U.S. Real Es,Global Real Estate,Alternatives,0.1011878179428394
+VO,Vanguard Mid-Cap ETF,Mid-Cap Blend,Equities,0.1825455203016113
+VOE,Vanguard Mid-Cap Value ETF,Mid-Cap Value,Equities,0.1352659946337486
+VONE,Vanguard Russell 1000 ETF,Large Blend,Equities,0.3493201793403197
+VONG,Vanguard Russell 1000 Growth ET,Large Growth,Equities,0.5523959105545873
+VONV,Vanguard Russell 1000 Value ETF,Large Value,Equities,0.1247326567911382
+VOO,Vanguard S&P 500 ETF,Large Blend,Equities,0.3838318982448593
+VOOG,Vanguard S&P 500 Growth ETF,Large Growth,Equities,0.536592394863831
+VOOV,Vanguard S&P 500 Value ETF,Large Value,Equities,0.168759981863859
+VOT,Vanguard Mid-Cap Growth ETF,Mid-Cap Growth,Equities,0.2225368995631483
+VOX,Vanguard Communication Services,Communications,Equities,-0.1782183706562131
+VPL,Vanguard FTSE Pacific ETF,Diversified Pacific/Asia,Equities,0.1503919046938246
+VPU,Vanguard Utilities ETF,Utilities,Equities,0.3514267675361093
+VSS,Vanguard FTSE All-Wld ex-US SmC,Foreign Small/Mid Blend,Equities,0.0276665912168952
+VT,Vanguard Total World Stock Inde,Global Large-Stock Blend,Equities,0.180505756118826
+VTHR,Vanguard Russell 3000 ETF,Large Blend,Equities,0.3269222007242791
+VTI,Vanguard Total Stock Market ETF,Large Blend,Equities,0.3566115733651556
+VTIP,Vanguard Short-Term Inflation-P,Short-Term Inflation-Protected Bond,Fixed Income,-0.959310010413666
+VTV,Vanguard Value ETF,Large Value,Equities,0.3332413600011672
+VTWG,Vanguard Russell 2000 Growth ET,Small Growth,Equities,0.1954260664134477
+VTWO,Vanguard Russell 2000 ETF,Small Blend,Equities,0.1653253860356111
+VTWV,Vanguard Russell 2000 Value ETF,Small Value,Equities,0.1123972799261639
+VUG,Vanguard Growth ETF,Large Growth,Equities,0.4150868781127508
+VUSE,Vident U.S. Equity Strategy ETF,Mid-Cap Value,Equities,0.0082137015971624
+VV,Vanguard Large-Cap ETF,Large Blend,Equities,0.3836059445924388
+VWO,Vanguard FTSE Emerging Markets ,Diversified Emerging Mkts,Equities,-0.0259890741232968
+VWOB,Vanguard Emerging Markets Gover,Emerging Markets Bond,Fixed Income,0.1816693903803231
+VXF,Vanguard Extended Market ETF,Mid-Cap Blend,Equities,0.2010836412241312
+VXUS,Vanguard Total International St,Foreign Large Blend,Equities,0.0006997066325599
+VYM,Vanguard High Dividend Yield ET,Large Value,Equities,0.3462447611372815
+WDIV,SPDR S&P Global Dividend,Global Large-Stock Value,Equities,0.0664263160908722
+WIP,SPDR FTSE International Governm,Global Bond,Fixed Income,-0.324349866223908
+WOOD,iShares Global Timber & Forestr,Natural Resources,Equities,0.1181998408533824
+WTMF,WisdomTree Managed Futures Stra,Systematic Trend,Equities,-1.060506454846098
+WTRE,WisdomTree New Economy Real Est,Global Real Estate,Alternatives,0.2381297490708069
+WTV,WisdomTree U.S. Value Fund,Mid-Cap Value,Equities,0.2023739721143375
+XAR,SPDR S&P Aerospace & Defense ET,Industrials,Equities,0.5630987611856663
+XBI,SPDR Series Trust  SPDR S&P Bio,Health,Equities,0.1949067043182517
+XES,SPDR Series Trust SPDR S&P Oil ,Equity Energy,Equities,-0.6116022462880415
+XHB,SPDR Series Trust SPDR Homebuil,Consumer Cyclical,Equities,-0.1299136337356818
+XHE,SPDR S&P Health Care Equipment,Health,Equities,0.7653523751160073
+XHS,SPDR S&P Health Care Services E,Health,Equities,0.1103718008478641
+XLB,Materials Select Sector SPDR,Natural Resources,Equities,0.0791400892363222
+XLE,SPDR Select Sector Fund - Energ,Equity Energy,Equities,-0.3102175935003176
+XLF,SPDR Select Sector Fund - Finan,Financial,Equities,0.2687314363721776
+XLG,Invesco S&P 500 Top 50 ETF,Large Blend,Equities,0.4599374089153919
+XLI,SPDR Select Sector Fund - Indus,Industrials,Equities,0.2273581401639959
+XLK,SPDR Select Sector Fund - Techn,Technology,Equities,0.6591264943673443
+XLP,SPDR Select Sector Fund - Consu,Consumer Defensive,Equities,0.1248019104285469
+XLU,SPDR Select Sector Fund - Utili,Utilities,Equities,0.3188853844123905
+XLV,SPDR Select Sector Fund - Healt,Health,Equities,0.3788151311656496
+XLY,SPDR Select Sector Fund - Consu,Consumer Cyclical,Equities,0.526799724958936
+XME,SPDR S&P Metals & Mining ETF,Natural Resources,Equities,0.0026545823406479
+XMHQ,Invesco S&P MidCap Quality ETF,Mid-Cap Blend,Equities,0.0893135647888014
+XMLV,Invesco S&P MidCap Low Volatili,Small Blend,Equities,0.6738965399943152
+XMMO,Invesco S&P MidCap Momentum ETF,Mid-Cap Blend,Equities,0.4650331982554627
+XMPT,VanEck CEF Muni Income ETF,High Yield Muni,Equities,0.0138076070395108
+XMVM,Invesco S&P MidCap Value with M,Small Value,Equities,0.000533109793757
+XNTK,SPDR NYSE Technology ETF,Technology,Equities,0.2057738731784497
+XOP,SPDR S&P Oil & Gas Explor & Pro,Equity Energy,Equities,-0.3325681542638618
+XPH,SPDR S&P Pharmaceuticals ETF,Health,Equities,-0.2889152514174073
+XPP,ProShares Ultra FTSE China 50,Trading--Leveraged Equity,Equities,0.0216244584732186
+XRT,SPDR S&P Retail ETF,Consumer Cyclical,Equities,-0.2740399771009377
+XSD,SPDR S&P Semiconductor ETF,Technology,Equities,0.5856229431719838
+XSLV,Invesco S&P SmallCap Low Volati,Small Blend,Equities,0.4615184250364433
+XSMO,Invesco S&P SmallCap Momentum E,Small Blend,Equities,0.2704970610097185
+XSVM,Invesco S&P SmallCap Value with,Small Value,Equities,0.0574785559403964
+XSW,SPDR S&P Software & Services ET,Technology,Equities,0.6458775695566374
+XTL,SPDR S&P Telecom ETF,Communications,Equities,0.1177763527027432
+XTN,SPDR S&P Transportation ETF,Industrials,Equities,-0.0380692518392688
+XYLD,Global X Funds Global X S&P 500,Derivative Income,Equities,0.1781911576439909
+YANG,Direxion Daily FTSE China Bear ,Trading--Inverse Equity,Equities,-0.3620251755860486
+YINN,Direxion Daily FTSE China Bull ,Trading--Leveraged Equity,Equities,-0.0017447867509357
+YXI,ProShares Short FTSE China 50,Trading--Inverse Equity,Equities,-0.3976614814484716
+YYY,Amplify High Income ETF,Tactical Allocation,Blended / Multi-Asset,-0.0672388998521273
+ZKBHF,SWISSCANTO FONDSLEITUNG AG ZKB ,,Equities,-0.1543488741945478
+ZKBSF,ZUERCHER KANTONALBANK SILVER AA,,Equities,-0.2102326277248722
+ZROZ,PIMCO 25  Year Zero Coupon U.S.,Long Government,Equities,-0.0199169876187778
+ZSILF,ZUERCHER KANTONALBANK ZKB SILVE,,Equities,-0.328699809242882

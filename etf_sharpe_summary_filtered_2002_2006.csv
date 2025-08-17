@@ -1,0 +1,104 @@
+Ticker,Name,Category,Class,5Y Sharpe Ratio
+BBH,,,Unclassified,1.0214488836440898
+DGT,SPDR Global Dow ETF (based on T,Global Large-Stock Value,Equities,1.1946380379332873
+DIA,SPDR Dow Jones Industrial Avera,Large Value,Equities,1.0942028742896306
+EFA,iShares MSCI EAFE ETF,Foreign Large Blend,Equities,1.762815061485597
+EPP,iShares MSCI Pacific Ex-Japan I,Pacific/Asia ex-Japan Stk,Equities,1.8176316672303512
+EWA,iShares MSCI Australia Index Fu,Miscellaneous Region,Equities,1.7838565829031967
+EWC,iShares MSCI Canada Index Fund,Miscellaneous Region,Equities,1.6409740672711397
+EWD,iShares Inc iShares MSCI Sweden,Miscellaneous Region,Equities,1.7526541093612815
+EWG,iShares MSCI Germany Index Fund,Miscellaneous Region,Equities,1.351447476212151
+EWH,iShares MSCI Hong Kong Index Fu,China Region,Equities,1.2483728775203962
+EWI,iShares Inc iShares MSCI Italy ,Miscellaneous Region,Equities,1.520812242041958
+EWJ,iShares MSCI Japan Index Fund,Japan Stock,Equities,1.0518074856351587
+EWK,iShares Inc iShares MSCI Belgiu,Miscellaneous Region,Equities,1.5289176805316247
+EWL,iShares Inc iShares MSCI Switze,Miscellaneous Region,Equities,1.567296032057313
+EWM,iShares MSCI Malaysia Index Fun,Miscellaneous Region,Equities,0.9447279801146028
+EWN,iShares MSCI Netherlands Index ,Miscellaneous Region,Equities,1.1994942102352837
+EWO,iShares Inc iShares MSCI Austri,Miscellaneous Region,Equities,2.237630042991137
+EWP,iShares Inc iShares MSCI Spain ,Miscellaneous Region,Equities,2.0370811407637253
+EWQ,iShares MSCI France Index Fund,Miscellaneous Region,Equities,1.4948860696168118
+EWS,iShares Inc iShares MSCI Singap,Miscellaneous Region,Equities,1.8394019941770936
+EWT,iShares Inc iShares MSCI Taiwan,China Region,Equities,0.6799764115640169
+EWU,iShares MSCI,Miscellaneous Region,Equities,1.5105354549507362
+EWW,iShares Inc iShares MSCI Mexico,Latin America Stock,Equities,1.9766303220521984
+EWY,iShares Inc iShares MSCI South ,Miscellaneous Region,Equities,1.0735004535258377
+EWZ,iShares Inc iShares MSCI Brazil,Latin America Stock,Equities,1.6649172363248863
+EZU,iShares MSCI Eurozone ETF,Europe Stock,Equities,1.4846362718044923
+IBB,iShares Biotechnology ETF,Health,Equities,0.5452777082995406
+ICF,iShares Select U.S. REIT ETF,Real Estate,Alternatives,1.6669114030364829
+IDGT,iShares U.S. Digital Infrastruc,Technology,Equities,0.7754208604129231
+IDU,iShares U.S. Utilities ETF,Utilities,Equities,1.5236830366397005
+IEV,iShares Europe ETF,Europe Stock,Equities,1.619491909704237
+IGE,iShares North American Natural ,Natural Resources,Equities,1.2596934961418982
+IGM,iShares Expanded Tech Sector ET,Technology,Equities,0.715790329831726
+IGV,iShares Expanded Tech-Software ,Technology,Equities,0.7331061737786903
+IJH,iShares Core S&P Mid-Cap ETF,Mid-Cap Blend,Equities,1.2503477849606417
+IJJ,iShares S&P Mid-Cap 400 Value E,Small Value,Equities,1.3771146129109086
+IJK,iShares S&P Mid-Cap 400 Growth ,Mid-Cap Growth,Equities,1.0962268292479571
+IJR,iShares Core S&P Small-Cap ETF,Small Blend,Equities,1.2066534848595245
+IJS,iShares S&P SmallCap 600 Value ,Small Value,Equities,1.2347089723836149
+IJT,iShares S&P SmallCap 600 Growth,Small Growth,Equities,1.1351987172252311
+ILF,iShares Latin America 40 ETF,Latin America Stock,Equities,1.8005569236965189
+IOO,iShares Global 100 ETF,Global Large-Stock Blend,Equities,1.3397602768135233
+IUSG,iShares Core S&P U.S. Growth ET,Large Growth,Equities,0.9521100841085516
+IUSV,iShares Core S&P U.S. Value ETF,Large Value,Equities,1.6724599827729314
+IVE,iShares S&P 500 Value ETF,Large Value,Equities,1.4403148591021977
+IVV,iShares Core S&P 500 ETF,Large Blend,Equities,1.30880663112673
+IVW,iShares S&P 500 Growth ETF,Large Growth,Equities,0.9834751682764556
+IWB,iShares Russell 1000 ETF,Large Blend,Equities,1.387435708598443
+IWD,iShares Russell 1000 Value ETF,Large Value,Equities,1.6126698445163887
+IWF,iShares Russell 1000 Growth ETF,Large Growth,Equities,0.9565296337881388
+IWM,iShares Russell 2000 ETF,Small Blend,Equities,1.1471482151868504
+IWN,iShares Russell 2000 Value ETF,Small Value,Equities,1.3833658665494204
+IWO,iShares Russell 2000 Growth ETF,Small Growth,Equities,0.9468094255030022
+IWP,iShares Russell Midcap Growth E,Mid-Cap Growth,Equities,1.3053188199089694
+IWR,iShares Russell Mid-Cap ETF,Mid-Cap Blend,Equities,1.6200376574817743
+IWS,iShares Russell Mid-cap Value E,Mid-Cap Value,Equities,1.8459143788979409
+IWV,iShares Russell 3000 ETF,Large Blend,Equities,1.3614258076163728
+IXC,iShares Global Energy ETF,Equity Energy,Equities,1.2628915033764168
+IXG,iShares Global Financial ETF,Financial,Equities,1.6018578921500886
+IXJ,iShares Global Healthcare ETF,Health,Equities,0.7888112055733073
+IXN,iShares Global Tech ETF,Technology,Equities,0.770244652486765
+IXP,iShares Global Comm Services ET,Communications,Equities,1.127164316789092
+IYC,iShares U.S. Consumer Discretio,Consumer Cyclical,Equities,0.8435072037728506
+IYE,iShares U.S. Energy ETF,Equity Energy,Equities,1.2922719843764408
+IYF,iShares U.S. Financial ETF,Financial,Equities,1.2593929852554384
+IYG,iShares U.S. Financial Services,Financial,Equities,1.2169322004006744
+IYH,iShares U.S. Healthcare ETF,Health,Equities,0.6909080175971805
+IYJ,iShares U.S. Industrials ETF,Industrials,Equities,1.1119258768859102
+IYK,iShares U.S. Consumer Staples E,Consumer Defensive,Equities,0.940741633575556
+IYM,iShares U.S. Basic Materials ET,Natural Resources,Equities,0.8549363941322287
+IYR,iShares U.S. Real Estate ETF,Real Estate,Alternatives,1.4825061962545472
+IYW,iShares U.S. Technology ETF,Technology,Equities,0.726819784859525
+IYY,iShares Dow Jones U.S. ETF,Large Blend,Equities,1.371455057798742
+IYZ,iShares U.S. Telecommunications,Communications,Equities,0.929418892413463
+JPXN,iShares JPX-Nikkei 400 ETF,Japan Stock,Equities,1.0177866328177891
+MDY,SPDR S&P MidCap 400 ETF Trust,Mid-Cap Blend,Equities,1.2510972912336584
+OEF,iShares S&P 100 ETF,Large Blend,Equities,1.1195152178488283
+OIH,VanEck Oil Services ETF,Equity Energy,Equities,0.9340130256519944
+PPH,VanEck Pharmaceutical ETF,Health,Equities,0.1335352404414009
+QQQ,"Invesco QQQ Trust, Series 1",Large Growth,Equities,0.8696106446743569
+RTH,VanEck Retail ETF,Consumer Cyclical,Equities,0.6414282075776647
+RWR,SPDR DJ Wilshire REIT ETF,Real Estate,Alternatives,1.5257974205994695
+SLYG,SPDR S&P 600 Small Cap Growth E,Small Growth,Equities,1.1793074490858335
+SLYV,SPDR S&P 600 Small Cap Value ET,Small Value,Equities,1.171670071479526
+SMH,VanEck Semiconductor ETF,Technology,Equities,0.4037601348741567
+SOXX,iShares Semiconductor ETF,Technology,Equities,0.5490198238088964
+SPTM,SPDR Portfolio S&P 1500 Composi,Large Blend,Equities,1.275461214433408
+SPY,SPDR S&P 500,Large Blend,Equities,1.2819603064200689
+SPYG,SPDR Series Trust SPDR Portfoli,Large Growth,Equities,0.8496049989641827
+SPYV,SPDR Series Trust SPDR Portfoli,Large Value,Equities,1.4340738435746765
+TLT,iShares 20+ Year Treasury Bond ,Long Government,Fixed Income,0.0979058644781401
+VTI,Vanguard Total Stock Market ETF,Large Blend,Equities,1.3562093805129607
+VXF,Vanguard Extended Market ETF,Mid-Cap Blend,Equities,1.3864220631233792
+XLB,Materials Select Sector SPDR,Natural Resources,Equities,0.9459003107540912
+XLE,SPDR Select Sector Fund - Energ,Equity Energy,Equities,1.2893184475415362
+XLF,SPDR Select Sector Fund - Finan,Financial,Equities,1.1616910857661202
+XLI,SPDR Select Sector Fund - Indus,Industrials,Equities,1.1078296909717464
+XLK,SPDR Select Sector Fund - Techn,Technology,Equities,0.7512213128793952
+XLP,SPDR Select Sector Fund - Consu,Consumer Defensive,Equities,0.79121281891715
+XLU,SPDR Select Sector Fund - Utili,Utilities,Equities,1.4910363959462891
+XLV,SPDR Select Sector Fund - Healt,Health,Equities,0.498505530556617
+XLY,SPDR Select Sector Fund - Consu,Consumer Cyclical,Equities,0.8856285024818589
+XNTK,SPDR NYSE Technology ETF,Technology,Equities,0.8615129326116755

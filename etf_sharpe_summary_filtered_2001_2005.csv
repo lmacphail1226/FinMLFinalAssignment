@@ -1,0 +1,80 @@
+Ticker,Name,Category,Class,5Y Sharpe Ratio
+BBH,VanEck Biotech ETF,Health,Equities,0.4704963604867045
+DGT,SPDR Global Dow ETF (based on T,Global Large-Stock Value,Equities,-0.0606093638215839
+DIA,SPDR Dow Jones Industrial Avera,Large Value,Equities,0.1262928212065713
+EWA,iShares MSCI Australia Index Fu,Miscellaneous Region,Equities,1.2233011896906374
+EWC,iShares MSCI Canada Index Fund,Miscellaneous Region,Equities,1.0134877527214814
+EWD,iShares Inc iShares MSCI Sweden,Miscellaneous Region,Equities,0.5420569473741946
+EWG,iShares MSCI Germany Index Fund,Miscellaneous Region,Equities,0.334385939429455
+EWH,iShares MSCI Hong Kong Index Fu,China Region,Equities,0.4639466401642768
+EWI,iShares Inc iShares MSCI Italy ,Miscellaneous Region,Equities,0.719632235926543
+EWJ,iShares MSCI Japan Index Fund,Japan Stock,Equities,0.7091609572006291
+EWK,iShares Inc iShares MSCI Belgiu,Miscellaneous Region,Equities,0.7730654516449822
+EWL,iShares Inc iShares MSCI Switze,Miscellaneous Region,Equities,0.6096625794328748
+EWM,iShares MSCI Malaysia Index Fun,Miscellaneous Region,Equities,0.4044179532492616
+EWN,iShares MSCI Netherlands Index ,Miscellaneous Region,Equities,0.2686677736776825
+EWO,iShares Inc iShares MSCI Austri,Miscellaneous Region,Equities,1.9126815010590217
+EWP,iShares Inc iShares MSCI Spain ,Miscellaneous Region,Equities,0.7319520059026567
+EWQ,iShares MSCI France Index Fund,Miscellaneous Region,Equities,0.4325648695764548
+EWS,iShares Inc iShares MSCI Singap,Miscellaneous Region,Equities,0.7219702015880266
+EWT,iShares Inc iShares MSCI Taiwan,China Region,Equities,0.151617460878418
+EWU,iShares MSCI,Miscellaneous Region,Equities,0.4905135251918975
+EWW,iShares Inc iShares MSCI Mexico,Latin America Stock,Equities,1.0606852528597834
+EWY,iShares Inc iShares MSCI South ,Miscellaneous Region,Equities,0.8891611091375903
+EWZ,iShares Inc iShares MSCI Brazil,Latin America Stock,Equities,0.7797463611939833
+EZU,iShares MSCI Eurozone ETF,Europe Stock,Equities,0.4189543308810448
+IDU,iShares U.S. Utilities ETF,Utilities,Equities,0.3993176216398713
+IEV,iShares Europe ETF,Europe Stock,Equities,0.4755194468257974
+IJH,iShares Core S&P Mid-Cap ETF,Mid-Cap Blend,Equities,0.5911085727945381
+IJJ,iShares S&P Mid-Cap 400 Value E,Small Value,Equities,0.7088197039406197
+IJK,iShares S&P Mid-Cap 400 Growth ,Mid-Cap Growth,Equities,0.3981859676838863
+IJR,iShares Core S&P Small-Cap ETF,Small Blend,Equities,0.5806923014776605
+IJS,iShares S&P SmallCap 600 Value ,Small Value,Equities,0.5567244193863872
+IJT,iShares S&P SmallCap 600 Growth,Small Growth,Equities,0.5629077361335397
+IOO,iShares Global 100 ETF,Global Large-Stock Blend,Equities,0.0535338622833839
+IUSG,iShares Core S&P U.S. Growth ET,Large Growth,Equities,-0.0452019919560139
+IUSV,iShares Core S&P U.S. Value ETF,Large Value,Equities,0.4294553168008798
+IVE,iShares S&P 500 Value ETF,Large Value,Equities,0.2742406045925722
+IVV,iShares Core S&P 500 ETF,Large Blend,Equities,0.1355256617864837
+IVW,iShares S&P 500 Growth ETF,Large Growth,Equities,-0.0667294885561168
+IWB,iShares Russell 1000 ETF,Large Blend,Equities,0.1670978784747059
+IWD,iShares Russell 1000 Value ETF,Large Value,Equities,0.4155676216982744
+IWF,iShares Russell 1000 Growth ETF,Large Growth,Equities,-0.072251209392132
+IWM,iShares Russell 2000 ETF,Small Blend,Equities,0.4357877773682155
+IWN,iShares Russell 2000 Value ETF,Small Value,Equities,0.6540809789273009
+IWO,iShares Russell 2000 Growth ETF,Small Growth,Equities,0.2102326315914015
+IWV,iShares Russell 3000 ETF,Large Blend,Equities,0.2036703454285698
+IYC,iShares U.S. Consumer Discretio,Consumer Cyclical,Equities,0.0105272683020152
+IYE,iShares U.S. Energy ETF,Equity Energy,Equities,0.790707960574272
+IYF,iShares U.S. Financial ETF,Financial,Equities,0.3933067664890106
+IYG,iShares U.S. Financial Services,Financial,Equities,0.3724196002861354
+IYH,iShares U.S. Healthcare ETF,Health,Equities,-0.1098460095089207
+IYJ,iShares U.S. Industrials ETF,Industrials,Equities,0.1718154332827933
+IYK,iShares U.S. Consumer Staples E,Consumer Defensive,Equities,0.3699469597704874
+IYM,iShares U.S. Basic Materials ET,Natural Resources,Equities,0.4115436446674828
+IYR,iShares U.S. Real Estate ETF,Real Estate,Alternatives,1.0392106433844506
+IYW,iShares U.S. Technology ETF,Technology,Equities,-0.0223671589605251
+IYY,iShares Dow Jones U.S. ETF,Large Blend,Equities,0.1826583454167787
+IYZ,iShares U.S. Telecommunications,Communications,Equities,-0.2008392297099135
+MDY,SPDR S&P MidCap 400 ETF Trust,Mid-Cap Blend,Equities,0.5759257649684473
+OEF,iShares S&P 100 ETF,Large Blend,Equities,-0.0766595736229702
+PPH,VanEck Pharmaceutical ETF,Health,Equities,-0.5802795574953294
+QQQ,"Invesco QQQ Trust, Series 1",Large Growth,Equities,0.0393750579747844
+SLYG,SPDR S&P 600 Small Cap Growth E,Small Growth,Equities,0.1034608405793158
+SLYV,SPDR S&P 600 Small Cap Value ET,Small Value,Equities,0.7498857492784918
+SMH,VanEck Semiconductor ETF,Technology,Equities,0.0348139763751679
+SPTM,SPDR Portfolio S&P 1500 Composi,Large Blend,Equities,0.1383676243364847
+SPY,SPDR S&P 500,Large Blend,Equities,0.1265529884930195
+SPYG,SPDR Series Trust SPDR Portfoli,Large Growth,Equities,-0.2072805734574369
+SPYV,SPDR Series Trust SPDR Portfoli,Large Value,Equities,0.2139144178918527
+TLT,iShares 20+ Year Treasury Bond ,Long Government,Fixed Income,0.1891537891605285
+XLB,Materials Select Sector SPDR,Natural Resources,Equities,0.5018261700889243
+XLE,SPDR Select Sector Fund - Energ,Equity Energy,Equities,0.8603129606947483
+XLF,SPDR Select Sector Fund - Finan,Financial,Equities,0.3223665857614294
+XLI,SPDR Select Sector Fund - Indus,Industrials,Equities,0.1732595229831661
+XLK,SPDR Select Sector Fund - Techn,Technology,Equities,-0.0988636935540877
+XLP,SPDR Select Sector Fund - Consu,Consumer Defensive,Equities,-0.2718593973467365
+XLU,SPDR Select Sector Fund - Utili,Utilities,Equities,0.2948782889383358
+XLV,SPDR Select Sector Fund - Healt,Health,Equities,0.2469861841991187
+XLY,SPDR Select Sector Fund - Consu,Consumer Cyclical,Equities,0.1407561557840342
+XNTK,SPDR NYSE Technology ETF,Technology,Equities,0.0609962175834778
